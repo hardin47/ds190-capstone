@@ -1,7 +1,8 @@
 ---
 title: "Schedule"
 description: |
-  Most of the readings are available either via Sakai or hyperlinks. If you can't find a reading, just ask!
+  Most of the readings are available either via Canvas or hyperlinks. If you can't find a reading, just ask!
+format: html
 ---
 
 
