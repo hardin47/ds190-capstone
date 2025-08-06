@@ -23,10 +23,8 @@ website:
     right:
       - text: "Syllabus"
         href: syllabus.qmd
-      - text: "Class Notes"
-        href: schedule.qmd
-      - text: "GitHub"
-        href: writing.qmd
+      - text: "Assignments"
+        href: assignments.qmd
     logo: images/st47s.png
     logo-href: https://ds190-capstone.netlify.app/
   page-footer:
