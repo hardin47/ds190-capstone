@@ -68,6 +68,8 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<link href="site_libs/font-awesome-6.5.2/css/all.min.css" rel="stylesheet">
+<link href="site_libs/font-awesome-6.5.2/css/v4-shims.min.css" rel="stylesheet">
 
 
 </head>
@@ -143,21 +145,17 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>Here’s your roadmap for the semester! Every day:</p>
+<div class="cell">
+<div class="cell-output-display">
+
+</div>
+</div>
+<p>Here is your roadmap for the semester!</p>
 <ul>
-<li>read the assigned items</li>
-<li>post one question to the Sakai wiki</li>
-<li>complete your task if you are contextualizing, discussing, or summarizing</li>
-<li>pay attention to due dates for written assignments</li>
-</ul>
-<p>Some general thoughts on <a href="handouts/Discussion-Instructions.pdf" target="_blank">discussions</a></p>
-<p>Here’s your roadmap for the semester! Each day, follow the general process outlined below:</p>
-<ul>
-<li><p>Enjoy the notes / text <i class="fas fa-book-open"></i></p></li>
-<li><p>Attend class, review the <i class="fas fa-pencil-alt"></i> worksheet and solutions if you have any questions after working on it during class. <i class="fas fa-desktop"></i> Slides from class are linked below.</p></li>
-<li><p>Discuss the reflection questions <i class="fas fa-lightbulb"></i> and ethics considerations <i class="fas fa-balance-scale"></i> (see the <i class="fas fa-book-open"></i> <a href="https://ds002r-fds.netlify.app/notes" target="_blank">class notes</a>) with your classmates and professor.</p></li>
-<li><p>The textbooks are <b> <a href="https://mdsr-book.github.io/mdsr3e/" target="_blank">Modern Data Science with R (MDSR), 3rd edition</a></b> by Baumer, Kaplan, and Horton and <b> <a href="https://r4ds.hadley.nz/" target="_blank">R for Data Science (R4DS), 2nd edition</a></b> by Wickham, Çetinkaya-Rundel, and Grolemund.</p></li>
-<li><p>Homework assignments are found at the <a href="https://github.com/orgs/ST47S-FODS-Spring2025/repositories" target="_blank">GitHub course organization</a>. Due dates are provided on each assignment (roughly every other week). See the <a href="https://ds002r-fds.netlify.app/github">course GitHub page</a> for more information on how to find, complete, and submit assignments.</p></li>
+<li><p>On some days, there are <i class="fas fa-pencil-alt"></i> assignments due. Pay attention to due dates as you are graded <strong>entirely</strong> on turning in assignments on time (reasonable person test).</p></li>
+<li><p>You will give three <i class="fa-solid fa-microphone"></i> presentations. Two will be ~10 minutes, informal, and take place during regular class times. The final presentation will be ~20 minutes, more formal, and take place during reading days / finals week.</p></li>
+<li><p>Five class periods will be based on disciplinary data science ethics. You are expected to <i class="fas fa-book-open"></i> read the pre-class materials and be an active <i class="fa-solid fa-comments"></i> participant in the class discussion.</p></li>
+<li><p>Attendance and class participation is mandatory.</p></li>
 </ul>
 <!--
 In order to use the icons, you need the fontawesome extension, https://github.com/quarto-ext/fontawesome
@@ -165,24 +163,24 @@ In order to use the icons, you need the fontawesome extension, https://github.co
 quarto add quarto-ext/fontawesome
 -->
 <div class="cell page-columns page-full">
-<div class="cell-output-display column-screen-inset">
-<div id="hnvuwzhhyu" style="padding-left:0px;padding-right:0px;padding-top:10px;padding-bottom:10px;overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
-<style>#hnvuwzhhyu table {
+<div class="cell-output-display column-body-outset">
+<div id="ptxuwkxmsg" style="padding-left:0px;padding-right:0px;padding-top:10px;padding-bottom:10px;overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<style>#ptxuwkxmsg table {
   font-family: system-ui, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
 
-#hnvuwzhhyu thead, #hnvuwzhhyu tbody, #hnvuwzhhyu tfoot, #hnvuwzhhyu tr, #hnvuwzhhyu td, #hnvuwzhhyu th {
+#ptxuwkxmsg thead, #ptxuwkxmsg tbody, #ptxuwkxmsg tfoot, #ptxuwkxmsg tr, #ptxuwkxmsg td, #ptxuwkxmsg th {
   border-style: none;
 }
 
-#hnvuwzhhyu p {
+#ptxuwkxmsg p {
   margin: 0;
   padding: 0;
 }
 
-#hnvuwzhhyu .gt_table {
+#ptxuwkxmsg .gt_table {
   display: table;
   border-collapse: collapse;
   line-height: normal;
@@ -208,12 +206,12 @@ quarto add quarto-ext/fontawesome
   border-left-color: #D3D3D3;
 }
 
-#hnvuwzhhyu .gt_caption {
+#ptxuwkxmsg .gt_caption {
   padding-top: 4px;
   padding-bottom: 4px;
 }
 
-#hnvuwzhhyu .gt_title {
+#ptxuwkxmsg .gt_title {
   color: #333333;
   font-size: 125%;
   font-weight: initial;
@@ -225,7 +223,7 @@ quarto add quarto-ext/fontawesome
   border-bottom-width: 0;
 }
 
-#hnvuwzhhyu .gt_subtitle {
+#ptxuwkxmsg .gt_subtitle {
   color: #333333;
   font-size: 85%;
   font-weight: initial;
@@ -237,7 +235,7 @@ quarto add quarto-ext/fontawesome
   border-top-width: 0;
 }
 
-#hnvuwzhhyu .gt_heading {
+#ptxuwkxmsg .gt_heading {
   background-color: #FFFFFF;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -249,13 +247,13 @@ quarto add quarto-ext/fontawesome
   border-right-color: #D3D3D3;
 }
 
-#hnvuwzhhyu .gt_bottom_border {
+#ptxuwkxmsg .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#hnvuwzhhyu .gt_col_headings {
+#ptxuwkxmsg .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -270,7 +268,7 @@ quarto add quarto-ext/fontawesome
   border-right-color: #D3D3D3;
 }
 
-#hnvuwzhhyu .gt_col_heading {
+#ptxuwkxmsg .gt_col_heading {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -290,7 +288,7 @@ quarto add quarto-ext/fontawesome
   overflow-x: hidden;
 }
 
-#hnvuwzhhyu .gt_column_spanner_outer {
+#ptxuwkxmsg .gt_column_spanner_outer {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -302,15 +300,15 @@ quarto add quarto-ext/fontawesome
   padding-right: 4px;
 }
 
-#hnvuwzhhyu .gt_column_spanner_outer:first-child {
+#ptxuwkxmsg .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#hnvuwzhhyu .gt_column_spanner_outer:last-child {
+#ptxuwkxmsg .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#hnvuwzhhyu .gt_column_spanner {
+#ptxuwkxmsg .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -322,11 +320,11 @@ quarto add quarto-ext/fontawesome
   width: 100%;
 }
 
-#hnvuwzhhyu .gt_spanner_row {
+#ptxuwkxmsg .gt_spanner_row {
   border-bottom-style: hidden;
 }
 
-#hnvuwzhhyu .gt_group_heading {
+#ptxuwkxmsg .gt_group_heading {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -352,7 +350,7 @@ quarto add quarto-ext/fontawesome
   text-align: left;
 }
 
-#hnvuwzhhyu .gt_empty_group_heading {
+#ptxuwkxmsg .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -367,15 +365,15 @@ quarto add quarto-ext/fontawesome
   vertical-align: middle;
 }
 
-#hnvuwzhhyu .gt_from_md > :first-child {
+#ptxuwkxmsg .gt_from_md > :first-child {
   margin-top: 0;
 }
 
-#hnvuwzhhyu .gt_from_md > :last-child {
+#ptxuwkxmsg .gt_from_md > :last-child {
   margin-bottom: 0;
 }
 
-#hnvuwzhhyu .gt_row {
+#ptxuwkxmsg .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -394,7 +392,7 @@ quarto add quarto-ext/fontawesome
   overflow-x: hidden;
 }
 
-#hnvuwzhhyu .gt_stub {
+#ptxuwkxmsg .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -407,7 +405,7 @@ quarto add quarto-ext/fontawesome
   padding-right: 5px;
 }
 
-#hnvuwzhhyu .gt_stub_row_group {
+#ptxuwkxmsg .gt_stub_row_group {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -421,15 +419,15 @@ quarto add quarto-ext/fontawesome
   vertical-align: top;
 }
 
-#hnvuwzhhyu .gt_row_group_first td {
+#ptxuwkxmsg .gt_row_group_first td {
   border-top-width: 2px;
 }
 
-#hnvuwzhhyu .gt_row_group_first th {
+#ptxuwkxmsg .gt_row_group_first th {
   border-top-width: 2px;
 }
 
-#hnvuwzhhyu .gt_summary_row {
+#ptxuwkxmsg .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -439,16 +437,16 @@ quarto add quarto-ext/fontawesome
   padding-right: 5px;
 }
 
-#hnvuwzhhyu .gt_first_summary_row {
+#ptxuwkxmsg .gt_first_summary_row {
   border-top-style: solid;
   border-top-color: #D3D3D3;
 }
 
-#hnvuwzhhyu .gt_first_summary_row.thick {
+#ptxuwkxmsg .gt_first_summary_row.thick {
   border-top-width: 2px;
 }
 
-#hnvuwzhhyu .gt_last_summary_row {
+#ptxuwkxmsg .gt_last_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -458,7 +456,7 @@ quarto add quarto-ext/fontawesome
   border-bottom-color: #D3D3D3;
 }
 
-#hnvuwzhhyu .gt_grand_summary_row {
+#ptxuwkxmsg .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -468,7 +466,7 @@ quarto add quarto-ext/fontawesome
   padding-right: 5px;
 }
 
-#hnvuwzhhyu .gt_first_grand_summary_row {
+#ptxuwkxmsg .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -478,7 +476,7 @@ quarto add quarto-ext/fontawesome
   border-top-color: #D3D3D3;
 }
 
-#hnvuwzhhyu .gt_last_grand_summary_row_top {
+#ptxuwkxmsg .gt_last_grand_summary_row_top {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -488,11 +486,11 @@ quarto add quarto-ext/fontawesome
   border-bottom-color: #D3D3D3;
 }
 
-#hnvuwzhhyu .gt_striped {
+#ptxuwkxmsg .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#hnvuwzhhyu .gt_table_body {
+#ptxuwkxmsg .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -501,7 +499,7 @@ quarto add quarto-ext/fontawesome
   border-bottom-color: #D3D3D3;
 }
 
-#hnvuwzhhyu .gt_footnotes {
+#ptxuwkxmsg .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -515,7 +513,7 @@ quarto add quarto-ext/fontawesome
   border-right-color: #D3D3D3;
 }
 
-#hnvuwzhhyu .gt_footnote {
+#ptxuwkxmsg .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding-top: 4px;
@@ -524,7 +522,7 @@ quarto add quarto-ext/fontawesome
   padding-right: 5px;
 }
 
-#hnvuwzhhyu .gt_sourcenotes {
+#ptxuwkxmsg .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -538,7 +536,7 @@ quarto add quarto-ext/fontawesome
   border-right-color: #D3D3D3;
 }
 
-#hnvuwzhhyu .gt_sourcenote {
+#ptxuwkxmsg .gt_sourcenote {
   font-size: 90%;
   padding-top: 4px;
   padding-bottom: 4px;
@@ -546,72 +544,72 @@ quarto add quarto-ext/fontawesome
   padding-right: 5px;
 }
 
-#hnvuwzhhyu .gt_left {
+#ptxuwkxmsg .gt_left {
   text-align: left;
 }
 
-#hnvuwzhhyu .gt_center {
+#ptxuwkxmsg .gt_center {
   text-align: center;
 }
 
-#hnvuwzhhyu .gt_right {
+#ptxuwkxmsg .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#hnvuwzhhyu .gt_font_normal {
+#ptxuwkxmsg .gt_font_normal {
   font-weight: normal;
 }
 
-#hnvuwzhhyu .gt_font_bold {
+#ptxuwkxmsg .gt_font_bold {
   font-weight: bold;
 }
 
-#hnvuwzhhyu .gt_font_italic {
+#ptxuwkxmsg .gt_font_italic {
   font-style: italic;
 }
 
-#hnvuwzhhyu .gt_super {
+#ptxuwkxmsg .gt_super {
   font-size: 65%;
 }
 
-#hnvuwzhhyu .gt_footnote_marks {
+#ptxuwkxmsg .gt_footnote_marks {
   font-size: 75%;
   vertical-align: 0.4em;
   position: initial;
 }
 
-#hnvuwzhhyu .gt_asterisk {
+#ptxuwkxmsg .gt_asterisk {
   font-size: 100%;
   vertical-align: 0;
 }
 
-#hnvuwzhhyu .gt_indent_1 {
+#ptxuwkxmsg .gt_indent_1 {
   text-indent: 5px;
 }
 
-#hnvuwzhhyu .gt_indent_2 {
+#ptxuwkxmsg .gt_indent_2 {
   text-indent: 10px;
 }
 
-#hnvuwzhhyu .gt_indent_3 {
+#ptxuwkxmsg .gt_indent_3 {
   text-indent: 15px;
 }
 
-#hnvuwzhhyu .gt_indent_4 {
+#ptxuwkxmsg .gt_indent_4 {
   text-indent: 20px;
 }
 
-#hnvuwzhhyu .gt_indent_5 {
+#ptxuwkxmsg .gt_indent_5 {
   text-indent: 25px;
 }
 
-#hnvuwzhhyu .katex-display {
+#ptxuwkxmsg .katex-display {
   display: inline-flex !important;
   margin-bottom: 0.75em !important;
 }
 
-#hnvuwzhhyu div.Reactable > div.rt-table > div.rt-thead > div.rt-tr.rt-tr-group-header > div.rt-th-group:after {
+#ptxuwkxmsg div.Reactable > div.rt-table > div.rt-thead > div.rt-tr.rt-tr-group-header > div.rt-th-group:after {
   height: 0px !important;
 }
 </style>
@@ -630,7 +628,7 @@ quarto add quarto-ext/fontawesome
 <th id="topic" class="gt_col_heading gt_columns_bottom_border gt_left" data-quarto-table-cell-role="th" scope="col">topic</th>
 <th id="assignment" class="gt_col_heading gt_columns_bottom_border gt_right" data-quarto-table-cell-role="th" scope="col">assignment</th>
 <th id="due dates" class="gt_col_heading gt_columns_bottom_border gt_right" data-quarto-table-cell-role="th" scope="col">due dates</th>
-<th id="readings" class="gt_col_heading gt_columns_bottom_border gt_right" data-quarto-table-cell-role="th" scope="col">readings</th>
+<th id="readings" class="gt_col_heading gt_columns_bottom_border gt_left" data-quarto-table-cell-role="th" scope="col">readings</th>
 </tr>
 </thead>
 <tbody class="gt_table_body">
@@ -639,105 +637,105 @@ quarto add quarto-ext/fontawesome
 <td class="gt_row gt_left" headers="topic"><p>introductions + syllabus + logistics + pre-course survey</p></td>
 <td class="gt_row gt_right" headers="assignment"></td>
 <td class="gt_row gt_right" headers="due dates"></td>
-<td class="gt_row gt_right" headers="readings"></td>
+<td class="gt_row gt_left" headers="readings"></td>
 </tr>
 <tr class="even">
 <td class="gt_row gt_left" headers="date"><p>Week 2 <br> 9.02.25</p></td>
 <td class="gt_row gt_left" headers="topic"><p>check-in + citations + scripting + Git</p></td>
 <td class="gt_row gt_right" headers="assignment"></td>
 <td class="gt_row gt_right" headers="due dates"></td>
-<td class="gt_row gt_right" headers="readings"></td>
+<td class="gt_row gt_left" headers="readings"></td>
 </tr>
 <tr class="odd">
 <td class="gt_row gt_left" headers="date"><p>Week 3 <br> 9.9.25</p></td>
-<td class="gt_row gt_left" headers="topic"><p>EDS - history</p></td>
+<td class="gt_row gt_left" headers="topic"><p><i class="fa-solid fa-comments"></i> EDS - history</p></td>
 <td class="gt_row gt_right" headers="assignment"></td>
 <td class="gt_row gt_right" headers="due dates"></td>
-<td class="gt_row gt_right" headers="readings"></td>
+<td class="gt_row gt_left" headers="readings"><p><i class="fa-solid fa-book-open"></i> Van Noorden, Richard. 2020. “The Ethical Questions That Haunt Facial-Recognition Research.” Nature. <a href="https://library.claremont.edu/" target="_blank">log in to the library to access the article</a> <br> <i class="fa-solid fa-book-open"></i> Johnson, Thaddeus L., and Natasha N. Johnson. 2023. <a href="https://www.scientificamerican.com/article/police-facial-recognition-technology-cant-tell-black-people-apart/" target="_blank">Police Facial Recognition Technology Cant Tell Black People Apart.</a> Scientific American.</p></td>
 </tr>
 <tr class="even">
 <td class="gt_row gt_left" headers="date"><p>Week 4 <br> 9.16.25</p></td>
 <td class="gt_row gt_left" headers="topic"><p>1st presentation</p></td>
 <td class="gt_row gt_right" headers="assignment"></td>
 <td class="gt_row gt_right" headers="due dates"></td>
-<td class="gt_row gt_right" headers="readings"></td>
+<td class="gt_row gt_left" headers="readings"></td>
 </tr>
 <tr class="odd">
 <td class="gt_row gt_left" headers="date"><p>Week 5 <br> 9.23.25</p></td>
 <td class="gt_row gt_left" headers="topic"><p>1st presentation</p></td>
 <td class="gt_row gt_right" headers="assignment"></td>
 <td class="gt_row gt_right" headers="due dates"></td>
-<td class="gt_row gt_right" headers="readings"></td>
+<td class="gt_row gt_left" headers="readings"></td>
 </tr>
 <tr class="even">
 <td class="gt_row gt_left" headers="date"><p>Week 6 <br> 9.30.25</p></td>
 <td class="gt_row gt_left" headers="topic"><p>EDS - linguistics</p></td>
 <td class="gt_row gt_right" headers="assignment"></td>
 <td class="gt_row gt_right" headers="due dates"></td>
-<td class="gt_row gt_right" headers="readings"></td>
+<td class="gt_row gt_left" headers="readings"></td>
 </tr>
 <tr class="odd">
 <td class="gt_row gt_left" headers="date"><p>Week 7 <br> 10.07.25</p></td>
 <td class="gt_row gt_left" headers="topic"><p>EDS - philosophy</p></td>
 <td class="gt_row gt_right" headers="assignment"></td>
 <td class="gt_row gt_right" headers="due dates"></td>
-<td class="gt_row gt_right" headers="readings"></td>
+<td class="gt_row gt_left" headers="readings"></td>
 </tr>
 <tr class="even">
 <td class="gt_row gt_left" headers="date"><p>10.14.25</p></td>
 <td class="gt_row gt_left" headers="topic"><p>fall break</p></td>
 <td class="gt_row gt_right" headers="assignment"></td>
 <td class="gt_row gt_right" headers="due dates"></td>
-<td class="gt_row gt_right" headers="readings"></td>
+<td class="gt_row gt_left" headers="readings"></td>
 </tr>
 <tr class="odd">
 <td class="gt_row gt_left" headers="date"><p>Week 8 <br> 10.21.25</p></td>
 <td class="gt_row gt_left" headers="topic"><p>2nd presentation</p></td>
 <td class="gt_row gt_right" headers="assignment"></td>
 <td class="gt_row gt_right" headers="due dates"></td>
-<td class="gt_row gt_right" headers="readings"></td>
+<td class="gt_row gt_left" headers="readings"></td>
 </tr>
 <tr class="even">
 <td class="gt_row gt_left" headers="date"><p>Week 9 <br> 10.28.25</p></td>
 <td class="gt_row gt_left" headers="topic"><p>2nd presentation</p></td>
 <td class="gt_row gt_right" headers="assignment"></td>
 <td class="gt_row gt_right" headers="due dates"></td>
-<td class="gt_row gt_right" headers="readings"></td>
+<td class="gt_row gt_left" headers="readings"></td>
 </tr>
 <tr class="odd">
 <td class="gt_row gt_left" headers="date"><p>Week 10 <br> 11.04.25</p></td>
 <td class="gt_row gt_left" headers="topic"><p>EDS - psychology</p></td>
 <td class="gt_row gt_right" headers="assignment"></td>
 <td class="gt_row gt_right" headers="due dates"></td>
-<td class="gt_row gt_right" headers="readings"></td>
+<td class="gt_row gt_left" headers="readings"></td>
 </tr>
 <tr class="even">
 <td class="gt_row gt_left" headers="date"><p>Week 11 <br> 11.11.25</p></td>
 <td class="gt_row gt_left" headers="topic"><p>check-in</p></td>
 <td class="gt_row gt_right" headers="assignment"></td>
 <td class="gt_row gt_right" headers="due dates"></td>
-<td class="gt_row gt_right" headers="readings"></td>
+<td class="gt_row gt_left" headers="readings"></td>
 </tr>
 <tr class="odd">
 <td class="gt_row gt_left" headers="date"><p>Week 12 <br> 11.18.25</p></td>
 <td class="gt_row gt_left" headers="topic"><p>EDS - economics</p></td>
 <td class="gt_row gt_right" headers="assignment"></td>
 <td class="gt_row gt_right" headers="due dates"></td>
-<td class="gt_row gt_right" headers="readings"></td>
+<td class="gt_row gt_left" headers="readings"></td>
 </tr>
 <tr class="even">
 <td class="gt_row gt_left" headers="date"><p>11.25.25</p></td>
 <td class="gt_row gt_left" headers="topic"><p>Thanksgiving break</p></td>
 <td class="gt_row gt_right" headers="assignment"></td>
 <td class="gt_row gt_right" headers="due dates"></td>
-<td class="gt_row gt_right" headers="readings"></td>
+<td class="gt_row gt_left" headers="readings"></td>
 </tr>
 <tr class="odd">
 <td class="gt_row gt_left" headers="date"><p>12.02.25 + 12.06.25 + 12.13.25</p></td>
 <td class="gt_row gt_left" headers="topic"><p>final presentations</p></td>
 <td class="gt_row gt_right" headers="assignment"></td>
 <td class="gt_row gt_right" headers="due dates"></td>
-<td class="gt_row gt_right" headers="readings"></td>
+<td class="gt_row gt_left" headers="readings"></td>
 </tr>
 </tbody>
 </table>

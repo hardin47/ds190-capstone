@@ -12,35 +12,23 @@ execute:
 ---
 
 
-Here's your roadmap for the semester!
-Every day:
-
-* read the assigned items
-* post one question to the Sakai wiki
-* complete your task if you are contextualizing, discussing, or summarizing
-* pay attention to due dates for written assignments
-
- Some general thoughts on <a href = "handouts/Discussion-Instructions.pdf" target = "_blank">discussions</a>
-
-
 ```{r}
 #| echo: false
 library(tidyverse)
-#library(fontawesome)
-#fontawesome::fa_html_dependency()
+library(fontawesome)
+fontawesome::fa_html_dependency()
 ```
 
-Here's your roadmap for the semester! Each day, follow the general process outlined below:
+Here is your roadmap for the semester! 
 
--   Enjoy the notes / text <i class="fas fa-book-open"></i>
+-  On some days, there are <i class="fas fa-pencil-alt"></i> assignments due. Pay attention to due dates as you are graded **entirely** on turning in assignments on time (reasonable person test).
 
--   Attend class, review the <i class="fas fa-pencil-alt"></i> worksheet and solutions if you have any questions after working on it during class.  <i class="fas fa-desktop"></i> Slides from class are linked below. 
+-  You will give three <i class = "fa-solid fa-microphone"></i> presentations. Two will be ~10 minutes, informal, and take place during regular class times. The final presentation will be ~20 minutes, more formal, and take place during reading days / finals week.
 
--   Discuss the reflection questions <i class="fas fa-lightbulb"></i> and ethics considerations <i class="fas fa-balance-scale"></i> (see the <i class="fas fa-book-open"></i> <a href = "https://ds002r-fds.netlify.app/notes" target = "_blank">class notes</a>) with your classmates and professor.
+-  Five class periods will be based on disciplinary data science ethics. You are expected to <i class="fas fa-book-open"></i> read the pre-class materials and be an active <i class="fa-solid fa-comments"></i> participant in the class discussion. 
 
--   The textbooks are <b> <a href = "https://mdsr-book.github.io/mdsr3e/" target = "_blank">Modern Data Science with R (MDSR), 3rd edition</a></b> by Baumer, Kaplan, and Horton and <b> <a href = "https://r4ds.hadley.nz/" target = "_blank">R for Data Science (R4DS), 2nd edition</a></b> by Wickham, Çetinkaya-Rundel, and Grolemund.
+-   Attendance and class participation is mandatory. 
 
--   Homework assignments are found at the <a href = "https://github.com/orgs/ST47S-FODS-Spring2025/repositories" target = "_blank">GitHub course organization</a>.  Due dates are provided on each assignment (roughly every other week).  See the <a href = "https://ds002r-fds.netlify.app/github">course GitHub page</a> for more information on how to find, complete, and submit assignments.
 
 <!--
 In order to use the icons, you need the fontawesome extension, https://github.com/quarto-ext/fontawesome
@@ -63,10 +51,10 @@ schedule <- tribble(
   ' ',
   ' ',
   
-   "Week 3 <br> 9.9.25", 'EDS - history', 
+   "Week 3 <br> 9.9.25", '<i class="fa-solid fa-comments"></i> EDS - history', 
   ' ',
   ' ',
-  ' ',
+  '<i class="fa-solid fa-book-open"></i> Van Noorden, Richard.  2020.  "The Ethical Questions That Haunt Facial-Recognition Research." Nature. <a href="https://library.claremont.edu/" target = "_blank">log in to the library to access the article</a> <br> <i class="fa-solid fa-book-open"></i> Johnson, Thaddeus L., and Natasha N. Johnson. 2023. <a href="https://www.scientificamerican.com/article/police-facial-recognition-technology-cant-tell-black-people-apart/" target = "_blank">Police Facial Recognition Technology Cant Tell Black People Apart.</a> Scientific American.',
 
      "Week 4 <br> 9.16.25", '1st presentation', 
   ' ',
@@ -139,7 +127,7 @@ schedule <- tribble(
 
 ```{r}
 #| echo: false
-#| column: screen-inset
+#| column: body-outset
 # can also use column: screen-inset also the entire page??
 # can use column: page for the entire page
 # can use column: body-outset to bleed outside the center column of text
