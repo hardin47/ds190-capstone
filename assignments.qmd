@@ -34,13 +34,14 @@ One section of your capstone project. You might turn in a full section of your c
 
 Revise, expand, and complete either the introduction or the previous section. Now include a title page, the section titles (from your outline), one completed section, and a bibliography.
 
-## 2nd outline (5 pts)
+## ethics component (5 pts)
 
-Revisit the outline and produce a definite outline (and the accompanying narrative) of the various sections of the capstone project. Inlcude the sections that you have already written as well as the title + bibliography + etc.
+A description of ethical challenges and how you've addressed them in your capstone project. 
+
 
 ## project draft (10 pts)
 
-Using literate programming, your draft write-up should include an introduction, contextualization (e.g., literature review, background of problem, etc.), description of the data, well-described analysis, and conclusion.
+Using literate programming, your draft write-up should include an introduction, contextualization (e.g., literature review, background of problem, etc.), description of the data, well-described analysis, ethics challenges / solutions, and conclusion.
 
 ## final write-up (25 pts)
 

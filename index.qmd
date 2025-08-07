@@ -93,7 +93,7 @@ schedule <- tribble(
   
   
      "Week 11 <br> 11.11.25", 'check-in', 
-  '<a href = "https://ds190-capstone.netlify.app/assignments" target = "_blank"><i class="fas fa-pencil-alt"></i> 2nd outline</a>',
+  '<a href = "https://ds190-capstone.netlify.app/assignments" target = "_blank"><i class="fas fa-pencil-alt"></i> ethics component</a>',
  ' ',
   
   
