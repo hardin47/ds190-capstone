@@ -64,13 +64,13 @@ schedule <- tribble(
   ' ',
 
   
-     "Week 6 <br> 9.30.25", 'EDS - linguistics', 
+     "Week 6 <br> 9.30.25", '<i class="fa-solid fa-comments"></i> EDS - linguistics', 
   '<a href = "https://ds190-capstone.netlify.app/assignments" target = "_blank"><i class="fas fa-pencil-alt"></i> 1st outline</a>',
 
   ' ',
 
   
-     "Week 7 <br> 10.07.25", 'EDS - philosophy', 
+     "Week 7 <br> 10.07.25", '<i class="fa-solid fa-comments"></i> EDS - philosophy', 
   '<a href = "https://ds190-capstone.netlify.app/assignments" target = "_blank"><i class="fas fa-pencil-alt"></i> section draft</a>',
   ' ',
 
@@ -87,7 +87,7 @@ schedule <- tribble(
  ' ',
 
   
-     "Week 10 <br> 11.04.25", 'EDS - psychology', 
+     "Week 10 <br> 11.04.25", '<i class="fa-solid fa-comments"></i> EDS - psychology', 
   '<a href = "https://ds190-capstone.netlify.app/assignments" target = "_blank"><i class="fas fa-pencil-alt"></i> introduction or 2nd section</a>',
  ' ',
   
@@ -97,7 +97,7 @@ schedule <- tribble(
  ' ',
   
   
-     "Week 12 <br> 11.18.25", 'EDS - economics', 
+     "Week 12 <br> 11.18.25", '<i class="fa-solid fa-comments"></i> EDS - economics', 
   '<a href = "https://ds190-capstone.netlify.app/assignments" target = "_blank"><i class="fas fa-pencil-alt"></i> project draft</a>',
 
  ' ',
@@ -106,7 +106,7 @@ schedule <- tribble(
   ' ',
   ' ',  
   
-      "12.02.25 + 12.06.25 + 12.13.25", 'final presentations', 
+      "12.02.25 (class) + 12.04.25 (2-4pm) + 12.09.25 (2-5pm)", 'final presentations', 
   ' ',
   ' ',
  
@@ -126,8 +126,8 @@ schedule <- tribble(
 schedule |> 
   gt::gt() |> 
   gt::fmt_markdown(columns = everything()) |> 
-    gt::cols_width(date ~ pct(8),
-                 everything() ~ pct(23)) 
+    gt::cols_width(date ~ pct(15),
+                 everything() ~ pct(21.25)) 
 ```
 
 

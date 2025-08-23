@@ -2,15 +2,20 @@
 title: "Written assignments"
 format: html
 description: |
-    Assignments are an important part of the capstone project. Staying on top of completing the assignments is the key to your success. All assignments should be done with literate programming, compiled to pdf, and submitted on Canvas. Grading will be done using a "reasonable person" test. That is, if a reasonable person would think your annotated bibliography is an annotated bibliography, you will get full credit.
+    Assignments are an important part of the capstone project. Staying on top of completing the assignments is the key to your success. All assignments should be done with literate programming, compiled to pdf, and submitted to your GitHub repository. Grading will be done using a "reasonable person" test. That is, if a reasonable person would think your annotated bibliography is an annotated bibliography, you will get full credit.
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
+# GitHub.
 
-## capstone topic (5 pts)
+You should be using GitHub to track your work and create a reproducible project with version control. You are welcome to use a prive repo, but I should be a collaborator (and your faculty advisor should also be a collaborator).  My GitHub username is `hardin47`. 
+
+All of your assignments should be compiled to pdf and turned in to your GitHub repo with an apropriate title, for example, `topic.pdf`.
+
+## topic (5 pts)
 
 In one or two paragraphs, explain the topic of your capstone project. The write-up need not be technical and should be accessible to other data science minors (even if they have not had the same
 course background as you). 
@@ -41,9 +46,9 @@ A description of ethical challenges and how you've addressed them in your capsto
 
 ## project draft (10 pts)
 
-Using literate programming, your draft write-up should include an introduction, contextualization (e.g., literature review, background of problem, etc.), description of the data, well-described analysis, ethics challenges / solutions, and conclusion.
+Using literate programming, your draft write-up should include an introduction, contextualization (e.g., literature review, background of problem, etc.), description of the data, ethical challenges and how you've addressed them, well-described analysis, ethics challenges / solutions, and conclusion.
 
 ## final write-up (25 pts)
 
-Using literate programming, your final write-up should include an introduction, contextualization (e.g., literature review, background of problem, etc.), description of the data, well-described analysis, and conclusion.
+Using literate programming, your final write-up should include an introduction, contextualization (e.g., literature review, background of problem, etc.), description of the data, ethical challenges and how you've addressed them, well-described analysis, and conclusion.
  

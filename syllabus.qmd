@@ -15,7 +15,10 @@ Class: Tuesdays, 1:15-2:30pm, Estella 1021
 
 **Office Hours: (Estella 2351)**
 
-TBD
+Monday: 2:30-5:00pm  
+Tuesday: 9-11am   
+Thursday: 1:15-3pm 
+
 
 ## The Course.  
 Capstone in Data Science exists as a way to support the data science minor capstone courses.
@@ -42,7 +45,8 @@ Prerequisite: all DS minor core courses including statistics, linear algebra, co
    * advanced study-design (e.g., creating a computational online study with sophisticated design to deal with non-independence)
    * advanced data visualization (e.g., creating a dashboard)
    * advanced computational data curation (e.g., scraping multiple websites and using regular expressions); and
-* be written with scripting code (i.e., not pull-down menus) using literate programming (data + code + results + narrative) and version control (e.g., GitHub); and
+* be written with scripting code (i.e., not pull-down menus) using literate programming (data + code + results + narrative) and version control (e.g., GitHub); 
+* include a discussion of ethical issues that came up along with any solutions you used to address the ethical issues; and
 * focus on a question originating from or responding to a domain outside of statistics, mathematics, and computer science.
 
 ## Diversity and Inclusion Statement. 
@@ -63,90 +67,42 @@ I (like many people) am still in the process of learning about diverse perspecti
 
 #### In class: please no phones or computers.
 
-In class we'll mostly be discussing the readings (which can be found in the course [schedule](schedule).)  You will each be responsible for leading the class on two different occasions: once to contextualize the readings and once to lead a discussion on the readings.  You are welcome to run the class in any of a variety of formats (i.e., putting students in groups to brainstorm, asking each student to respond to a question, asking provocative questions, etc.)  It will be very helpful for you to talk with me before your assigned day so that we can devise a strategy and a set of topics/questions for your discussion.  We will not discuss every word that you read, but you should complete all the readings (some of which will be used in the papers) and be prepared to discuss them.
- 
 
-Even if you are not assigned to lead a discussion, you will be expected to participate and contribute to the discussion every day.  Class attendance is required.  Your comments in class will be evaluated on how well they demonstrate familiarity with the reading and how they acknowledge and promote discussion by others.  If you are one of the more talkative students, try to encourage others to contribute as well.   If you have an idea that is somewhat off topic, write it down, and we'll come back to it.  Let's try to keep the discussions moderately linear and on-topic.
+In class time will consist of two types of class sessions.  Some of our class sessions will consist of working through the logistics surrounding your projects. For example, some days we will talk about the projects themselves, some days we will talk about how to turn in assignments, and some days you will be presenting. During 5 of our class sessions, we will talk about ethics in data science through the lens of a discipline (history, linguistics, philosophy, psychology, and economics). 
+
+There is an expectation that you attend every class meeting and stay engaged in our discussions. On the ethical data science discussion days, you will have reading that you should do before coming to class.
+ 
 
 ## Writing.  
-As you know, this course has a large writing component.  The majority of your grade will come from the writing you do.  You will write 2 formal papers and a research paper.  Additionally, there will be assigned weekly informal writings.
+The final data science capstone project is a written paper. During the semester, you will have parts of the paper due along the way. Ideally, when you get to the end of the semester, the written part will come naturally by putting together the parts from earlier in the semester. You should not leave all the writing to the end.
 
-
-**formal essays** will be turned in as a micro-essay, then a final version, then a rewrite of the final version.  Two of your peers, Chris, and I will give you comments on your paper; remember, our comments will never be entirely comprehensive and can only be as helpful as your paper is good.  For example, if your final version of the paper is difficult to read because it is full of grammatical errors, we may comment mostly on those.  If the rewrite fixes all of the grammatical errors, the paper still may receive a "C" grade due to poor understanding of the paper topic (on which we were unable to comment for the first paper because of the grammatical errors).
-
- 
-Papers should be in 12-point font, have one-inch margins, and be double spaced.  Include your name, the date, the course, and a title on every paper.  Do not include a separate title page.   Instructions for how / where / when to turn in papers is on the [assignments](assignments) page.
-
- 
-
-**research paper** will include library research and primary sources. More later. 
-
- 
-
-**micro-essays** will be assigned regularly as short (500 words) reflections on some aspect of the readings from class.  You should feel free to be creative and to stretch out of your comfort zone when thinking about the readings and writing your reflections.  The grades for the informal writings will be given based on effort and participation.
 
  
 ## Reading.  
-There will be a substantial amount of reading in this class (see the [schedule](schedule)).  The source of the readings are:
+There will be expected reading on each of the five days when we discuss ethical data science. The readings will be posted on the <a href = "https://ds190-capstone.netlify.app/">front page of the course webpage</a>. Some of the readings are hyper-linked. Others are available at the Claremont Colleges library, and you will need to login to the library to access the reading.
 
-* Sakai – most of your readings will be available electronically via Sakai. 
-
-* Electronic Journals – some of your readings will be available online via the library's electronic journal database.  This database is fairly straightforward to search, but you will also get an orientation to this and other databases on your library orientation day.
-
-* Electronic sources - some of the readings are hyper-linked from the [schedule](schedule) page.  If you use the sources in your writing, be sure to investigate proper citation methods.
-
-
-## Writing Center.  
-The Writing Center is open this semester! They open at full capacity after the second week of the semester, but they will be holding limited hours as soon as classes begin.  Writing and Speaking Partners meet one-on-one with students to talk about their work and provide feedback at any stage of their preparation process. Trained to think deeply about rhetoric and communication across the curriculum, these student peers facilitate conversations about everything from ID1 papers to senior theses, lab reports to creative writing, giving presentations to developing strategies for reading and engaging more deeply in class discussions. 
-
-Additionally, Jenny Thomas, the Assistant Director of College Writing and Language Diversity, offers specialized writing and speaking support for multilingual students navigating English as an additional language. 
-
-To make an appointment with a Writing or Speaking Partner, please log on to the Portal and go to Academics > Writing Center, or contact them at writing.center@pomona.edu.  All appointments will be made through the Portal as usual, and the meetings will be online--or sometimes in-person but outdoors.  The Writing and Speaking Partners will be flexible both about the mode of consultation (phone, Zoom, email, Google docs, walk and talk, etc.) and about their hours in order to accommodate student needs.  
-
-
-
-## Claremont Colleges Library Research Support Services
-
-The Claremont Colleges Library provides a welcoming space for students to get help on their research assignments, from theses and dissertations, to papers, to multimedia projects. Librarians are available to work with students in any discipline at any stage of the research process, including narrowing down a topic, locating and using resources, or creating a formatted reference list. Even if you are an experienced researcher, you can still benefit from working with a librarian: your librarian can introduce you to ideas, perspectives, or resources you haven't yet considered. You will find working with a librarian to be most valuable earlier in your research process than the night before your assignment is due - the earlier the better!
-
-<a href="https://library.claremont.edu/ask-us/" target = "_blank">General research appointments</a> or <a href="https://library.claremont.edu/librarians/" target = "_blank">subject specific research appointments</a> are available for all students at point in your project.  In addition, you can get support through the Student Assisted Research Support, available through <a href="https://library.claremont.edu/ask-us/" target = "_blank">chat</a>, Mondays-Fridays. Check the library's website for up-to-date hours.
-
-
-One other library resources is their subject specific <a href = "https://libguides.libraries.claremont.edu/homepage" target = _blank">Research Guides</a>.    
-
-
-## Academic Honesty.  
-
-You are on your honor to present only your work as part of your course  assessments. That is, you should be writing your own words and doing your own analyses as part of the capstone. It should be your work, not ChatGPT's. That said, you should feel free to ask ChatGPT for clarification on a topic you don't understand, to ask what a particular error message means, or to ask whether what you've written makes sense. But don't have ChatGPT do the coding or the analysis for you. I mean, if you do that, why are you even trying to get the minor?
-
-Below, I've provided Pomona's academic honesty policy which is available in the Student Handbook. But before the policy, I've given some thoughts on cheating which I have taken from Nick Ball's CHEM 147 Collective (thank you, Prof Ball!).  Prof Ball gives us all something to think about when we are learning in a classroom as well as on our journey to become scientists and professionals.
-
-There are many known reasons why we may feel the need to "cheat" on problem sets or exams:
-
-  * An academic environment that values grades above learning.
-  * Financial aid is critical for remaining in school that places undue pressure on maintaining a high GPA.
-  * Navigating school, work, and/or family obligations that  have diverted focus from class.
-  * Challenges balancing coursework and mental health.
-  * Balancing academic, family, peer, or personal issues.
-
-Being accused of cheating – whether it has occurred or not – can be devastating for students. The college requires me to respond to potential academic dishonesty with a process that is very long and damaging. As your instructor, I care about you and want to offer alternatives to prevent us from having to go through this process. If you find yourself in a situation where "cheating" seems like the only option:
-
-**Please come talk to me.  We will figure this out together.**
-
-Pomona College is an academic community, all of whose members are expected to abide by ethical standards both in their conduct and in their exercise of responsibilities toward other members of the community. The college expects students to understand and adhere to basic standards of honesty and academic integrity. These standards include, but are not limited to, the following:
-
-Here are fun <a href = "https://library.claremont.edu/exploring-academic-integrity/" target = "_blank">academic honesty tutorials & quizes</a> you could work through to test your knowledge. 
-
-
-Please be sure to read <a href="http://catalog.pomona.edu/content.php?catoid=7&navoid=394" target = "_blank">Pomona's Policies on Academic Integrity</a>. <a href = "Academic_Integrity.doc" target = "_blank">Additional information</a> on citation, summarizing, and working with others so that you can successfully maintain academic integrity.
 
 
 ## Grades.  
 
-Your final grade will be calculated as follows.
+Your final grade will be calculated using the following points system below.  There are 120 total points. 90% of 120 is 108 points.
 
 
 
+ topic: 5pts  
+ annotated bibliography: 5pts  
+ 1st outline: 5pts  
+ section draft: 5pts  
+ introduction or 2nd draft: 5pts  
+ ethics component: 5pts  
+ project draft: 10pts  
+ final write-up: 25pts  
+ 
+ 1st presentation: 10pts  
+ 2nd presentation: 10pts  
+ final presentation: 25pts  
+ 
+ active participation in ethics conversations: 10pts
  
 
 

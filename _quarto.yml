@@ -29,7 +29,7 @@ website:
     logo-href: https://ds190-capstone.netlify.app/
   page-footer:
     left: |
-      [{{< fa book >}}](https://hardin47.netlify.app/research/)
+      <a href = "" target = "_blank"><i class="fas fa-book-open"></i></a>
       <a href ="https://hardin47.netlify.app/resume.pdf" target = "_blank"><i class="fa-solid fa-bookmark"></i></a>
       <a href="mailto:jo.hardin@pomona.edu" target = "_blank"><i class="fa-solid fa-at"></i></a>
       <a href="https://scholar.google.com/citations?user=c5Y77poAAAAJ&hl=en" target = "_blank"><i class="fa-brands fa-google-scholar"></i></a>
