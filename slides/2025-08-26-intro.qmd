@@ -1,0 +1,111 @@
+---
+title: Introduction to DS 190
+subtitle: Capstone in Data Science
+author: "Jo Hardin"
+date: "August 26, 2025"
+date-format: long
+format:
+  revealjs:
+    incremental: false
+    scrollable: true
+    slide-number: true
+    show-slide-number: all
+    embed-resources: true
+execute:
+  echo: true
+  warning: false
+  message: false
+---
+
+```{r}
+#| include: false
+
+source("../_common.R")
+fontawesome::fa_html_dependency()
+options(pillar.width = 70)
+```
+
+# Agenda 8/25/25
+
+1. [Syllabus](../syllabus/)
+2. course structure
+3. project
+4. ethics in data science
+
+
+## Course structure
+* regular assignment due dates
+* presentations
+* ethics in data science
+
+
+
+## Additional details
+* Canvas has links
+  - course website -- almost everything -- https://ds190-capstone.netlify.app/
+* no computers (tablets fine)
+* good communication
+* anonymous feedback link
+
+## Assignments
+:::: {.columns}
+
+::: {.column width="50%"}
+* topic
+* bibliography
+* 1st outline
+* section draft
+:::
+
+::: {.column width="50%"}
+* introduction or 2nd section
+* ethics component
+* project draft
+* final write-up
+:::
+::::
+
+
+## GitHub
+
+You should be using GitHub to track all of your work
+
+* Create a GitHub repo for your capstone project
+* Public or Private + me + your advisor as collaborators
+* Assignments should be well labeled, and the link to the assignment should be posted to Canvas
+
+## Grading
+
+Reasonable person test:  full credit if a reasonable person thinks that what you turned in is a _____  (e.g., a draft of section 1).
+
+## Projects
+
+The Data Science capstone project should: 
+
+* carry out a study and communicate results from an extensive data-driven project that is related to domain specific challenges; and 
+* demonstrate competency in applying at least one type of advanced data-analytic method such as (not limited to): 
+   * modeling a process (e.g., generalized linear models, Bayesian analysis, advanced probability theory and stochastic processes, non-linear models, machine learning, big data analysis, econometrics, or statistical computing)
+   * advanced study-design (e.g., creating a computational online study with sophisticated design to deal with non-independence)
+   * advanced data visualization (e.g., creating a dashboard)
+   * advanced computational data curation (e.g., scraping multiple websites and using regular expressions); and
+* be written with scripting code (i.e., not pull-down menus) using literate programming (data + code + results + narrative) and version control (e.g., GitHub); 
+* include a discussion of ethical issues that came up along with any solutions you used to address the ethical issues; and
+* focus on a question originating from or responding to a domain outside of statistics, mathematics, and computer science.
+
+
+## Student responsibilities:
+* Find a faculty member who can support the project and provide domain expertise. The faculty member need not already be involved with Pomona’s Data Science minor, but you might be interested in which faculty members are affiliated with the minor.
+* Meet with faculty mentor weekly.
+* Identify resources on campus that can provide technical support.
+* Perform the computational work required in the project.
+* Communicate the results of the project in writing and in a formal presentation.
+
+
+
+## Disciplinary Ethics in Data Science
+
+* 5 class sessions for ethics conversations:  history, linguistics, philosophy, psychology, economics
+
+* small amount of reading
+
+* expectation for active participation in the conversation on those days

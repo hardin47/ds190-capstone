@@ -93,7 +93,7 @@ Your final grade will be calculated using the following points system below.  Th
  annotated bibliography: 5pts  
  1st outline: 5pts  
  section draft: 5pts  
- introduction or 2nd draft: 5pts  
+ introduction or 2nd section: 5pts  
  ethics component: 5pts  
  project draft: 10pts  
  final write-up: 25pts  

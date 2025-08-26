@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://ds190-capstone.netlify.app/index.html</loc>
-    <lastmod>2025-08-23T22:05:14.807Z</lastmod>
+    <lastmod>2025-08-26T14:28:55.698Z</lastmod>
   </url>
   <url>
     <loc>https://ds190-capstone.netlify.app/schedule.html</loc>
@@ -10,7 +10,7 @@
   </url>
   <url>
     <loc>https://ds190-capstone.netlify.app/syllabus.html</loc>
-    <lastmod>2025-08-23T22:37:14.776Z</lastmod>
+    <lastmod>2025-08-26T14:08:54.053Z</lastmod>
   </url>
   <url>
     <loc>https://ds190-capstone.netlify.app/assignments.html</loc>
@@ -35,5 +35,9 @@
   <url>
     <loc>https://ds190-capstone.netlify.app/LICENSE.html</loc>
     <lastmod>2025-08-06T22:16:12.070Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ds190-capstone.netlify.app/slides/2025-08-26-intro.html</loc>
+    <lastmod>2025-08-26T14:27:41.464Z</lastmod>
   </url>
 </urlset>
