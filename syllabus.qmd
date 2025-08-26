@@ -19,6 +19,9 @@ Monday: 2:30-5:00pm
 Tuesday: 9-11am   
 Thursday: 1:15-3pm 
 
+make some changes here.
+
+
 
 ## The Course.  
 Capstone in Data Science exists as a way to support the data science minor capstone courses.
