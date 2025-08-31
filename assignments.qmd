@@ -24,7 +24,8 @@ For the first draft, clearly and precisely spell out both the **data** aspect of
 
 ## annotated bibliography (5 pts)
 
-A list of relevant sources (at least 3), preceded by one or two paragraphs explaining which are the main sources and what you will be doing with each.
+A list of relevant sources (at least 3), preceded by a paragraph or so explaining which are the main sources and what you will be doing with each.
+Additionally, you should have a source for your data (if you are using external data).
 
 ## 1st outline (5 pts)
 
