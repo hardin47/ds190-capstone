@@ -5,8 +5,8 @@ project:
   output-dir: _site
   resources: 
     - "handout/*"
-    - "site/bibtex_example.qmd"
-    - "site/capstone.bib"
+    - "slides/bibtex_example.qmd"
+    - "slides/capstone.bib"
   
 website:
   title: "Capstone in Data Science"

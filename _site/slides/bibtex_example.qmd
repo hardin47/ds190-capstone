@@ -1,0 +1,38 @@
+---
+title: BibTeX Example
+subtitle: Capstone in Data Science
+author: "Jo Hardin"
+date: "September 2, 2025"
+date-format: long
+format: 
+  pdf:
+    number-sections: true
+bibliography: capstone.bib
+execute:
+  echo: true
+  warning: false
+  message: false
+
+---
+
+# Introduction
+
+Here is an introduction to my amazing capstone project. You will be impressed.
+
+# Really important stuff
+
+In the second chapter, I'll tell you some very important things. Indeed, my work is based on @tukey1972.
+
+The important idea is the measure of a robust correlation [@tukey1972].
+
+
+# Less important tuff
+
+Although I read all about Halmos, I never ended up citing the work, so there is no in-text citation. Which means, you'll notice, that the Halmos citation does not show up in my references section even though Halmos is in the .bib file.
+
+## To remember
+
+If you use a reference, you should cite that work. In Quarto, the citation is done with the `@...` or `[@...]` format. If you do not cite a particular work, the reference will not show up in your references section, even if the entry is in your .bib file.
+
+# References
+
