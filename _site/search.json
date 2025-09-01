@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Schedule",
     "section": "",
-    "text": "Here is your roadmap for the semester!\n\nOn some days, there are  assignments due. Pay attention to due dates as you are graded entirely on turning in assignments on time (reasonable person test).\nYou will give three  presentations. Two will be ~10 minutes, informal, and take place during regular class times. The final presentation will be ~20 minutes, more formal, and take place during reading days / finals week.\nFive class periods will be based on disciplinary data science ethics. You are expected to  read the pre-class materials and be an active  participant in the class discussion.\nAttendance and class participation is mandatory.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\ndate\ntopic\nassignment\nreadings\n\n\n\n\nWeek 1  8.26.25\nintroductions + syllabus + logistics + pre-course survey\n\n Introduction\n\n\nWeek 2  9.2.25\ncheck-in + citations + scripting + Git\n capstone topic\n\n\n\nWeek 3  9.9.25\n EDS - history\n annotated bibliography\n Van Noorden, Richard. 2020. “The Ethical Questions That Haunt Facial-Recognition Research.” Nature. log in to the library to access the article   Johnson, Thaddeus L., and Natasha N. Johnson. 2023. Police Facial Recognition Technology Cant Tell Black People Apart. Scientific American.\n\n\nWeek 4  9.16.25\n1st presentation\n\n\n\n\nWeek 5  9.23.25\n1st presentation\n\n\n\n\nWeek 6  9.30.25\n EDS - linguistics\n 1st outline\n\n\n\nWeek 7  10.7.25\n EDS - philosophy\n section draft\n\n\n\n10.14.25\nfall break\n\n\n\n\nWeek 8  10.21.25\n2nd presentation\n\n\n\n\nWeek 9  10.28.25\n2nd presentation\n\n\n\n\nWeek 10  11.4.25\n EDS - psychology\n introduction or 2nd section\n\n\n\nWeek 11  11.11.25\ncheck-in\n ethics component\n\n\n\nWeek 12  11.18.25\n EDS - economics\n project draft\n\n\n\n11.25.25\nThanksgiving break\n\n\n\n\n12.2.25 (class) + 12.4.25 (2-4pm) + 12.9.25 (2-5pm)\nfinal presentations\n\n\n\n\n12.9.25\nfinal write-up\n final write-up\n\n\n\n\n\n\n\n\n\n\n\nReuseCC-BY-SA-4.0"
+    "text": "Here is your roadmap for the semester!\n\nOn some days, there are  assignments due. Pay attention to due dates as you are graded entirely on turning in assignments on time (reasonable person test).\nYou will give three  presentations. Two will be ~10 minutes, informal, and take place during regular class times. The final presentation will be ~20 minutes, more formal, and take place during reading days / finals week.\nFive class periods will be based on disciplinary data science ethics. You are expected to  read the pre-class materials and be an active  participant in the class discussion.\nAttendance and class participation is mandatory.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\ndate\ntopic\nassignment\nreadings\n\n\n\n\nWeek 1  8.26.25\nintroductions + syllabus + logistics + pre-course survey\n\n Introduction\n\n\nWeek 2  9.2.25\ncheck-in + citations + scripting + Git\n capstone topic\n Writing & Presenting   BibTeX example   .bib file\n\n\nWeek 3  9.9.25\n EDS - history\n annotated bibliography\n Van Noorden, Richard. 2020. “The Ethical Questions That Haunt Facial-Recognition Research.” Nature. log in to the library to access the article   Johnson, Thaddeus L., and Natasha N. Johnson. 2023. Police Facial Recognition Technology Cant Tell Black People Apart. Scientific American.\n\n\nWeek 4  9.16.25\n1st presentation\n\n\n\n\nWeek 5  9.23.25\n1st presentation\n\n\n\n\nWeek 6  9.30.25\n EDS - linguistics\n 1st outline\n\n\n\nWeek 7  10.7.25\n EDS - philosophy\n section draft\n\n\n\n10.14.25\nfall break\n\n\n\n\nWeek 8  10.21.25\n2nd presentation\n\n\n\n\nWeek 9  10.28.25\n2nd presentation\n\n\n\n\nWeek 10  11.4.25\n EDS - psychology\n introduction or 2nd section\n\n\n\nWeek 11  11.11.25\ncheck-in\n ethics component\n\n\n\nWeek 12  11.18.25\n EDS - economics\n project draft\n\n\n\n11.25.25\nThanksgiving break\n\n\n\n\n12.2.25 (class) + 12.4.25 (2-4pm) + 12.9.25 (2-5pm)\nfinal presentations\n\n\n\n\n12.9.25\nfinal write-up\n final write-up\n\n\n\n\n\n\n\n\n\n\n\nReuseCC-BY-SA-4.0"
   },
   {
     "objectID": "index.html#week-1-perception",
@@ -551,5 +551,159 @@
     "title": "Introduction to DS 190",
     "section": "Student responsibilities:",
     "text": "Student responsibilities:\n\nFind a faculty member who can support the project and provide domain expertise. The faculty member need not already be involved with Pomona’s Data Science minor, but you might be interested in which faculty members are affiliated with the minor.\nMeet with faculty mentor weekly.\nIdentify resources on campus that can provide technical support.\nPerform the computational work required in the project.\nCommunicate the results of the project in writing and in a formal presentation."
+  },
+  {
+    "objectID": "slides/2025-09-02-writing.html#work-habits",
+    "href": "slides/2025-09-02-writing.html#work-habits",
+    "title": "Writing & Presenting",
+    "section": "Work habits",
+    "text": "Work habits\n\nStart writing today\nThink of it as a long-term relationship (or arranged marriage)\nWrite things up as you go, every week"
+  },
+  {
+    "objectID": "slides/2025-09-02-writing.html#how-to-write-technically",
+    "href": "slides/2025-09-02-writing.html#how-to-write-technically",
+    "title": "Writing & Presenting",
+    "section": "How to write technically",
+    "text": "How to write technically\n\nHalmos, Paul R. (1970). How to Write Mathematics. L’Enseignement Mathématique, 16(2), 123–152."
+  },
+  {
+    "objectID": "slides/2025-09-02-writing.html#how-to-write-technically-1",
+    "href": "slides/2025-09-02-writing.html#how-to-write-technically-1",
+    "title": "Writing & Presenting",
+    "section": "How to write technically",
+    "text": "How to write technically\n\nHalmos, Paul R. (1970). How to Write Mathematics. L’Enseignement Mathématique, 16(2), 123–152."
+  },
+  {
+    "objectID": "slides/2025-09-02-writing.html#something-to-say",
+    "href": "slides/2025-09-02-writing.html#something-to-say",
+    "title": "Writing & Presenting",
+    "section": "Something to say",
+    "text": "Something to say\n\nAn algorithm, visualization, theory, application that excites you.\nWhy is it interesting?\nContext\n\nWhat is the history of the idea?\nWhy is it important?\nWhat have other people done?\nWhat are the open problems?\n\nWhat is the story you want to tell?"
+  },
+  {
+    "objectID": "slides/2025-09-02-writing.html#someone-to-say-it-to",
+    "href": "slides/2025-09-02-writing.html#someone-to-say-it-to",
+    "title": "Writing & Presenting",
+    "section": "Someone to say it to",
+    "text": "Someone to say it to\n\nYour peers\nYou, months earlier, in August 2025\nMaybe your adviser(s)\nPeople unconnected to but interested in the project"
+  },
+  {
+    "objectID": "slides/2025-09-02-writing.html#important-rules",
+    "href": "slides/2025-09-02-writing.html#important-rules",
+    "title": "Writing & Presenting",
+    "section": "Important rules",
+    "text": "Important rules\n\nDistinguish clearly between formal content and informal content\nFormal content must be correct (e.g., methods)\nInformal content should be helpful (e.g., toy examples)\nMake the reader aware of the status of any part of the text\n\nIs it formal or informal?\nWhich part is already known? Which part is your (novel) contribution?\nThe reader should not be in doubt (nor should you be)"
+  },
+  {
+    "objectID": "slides/2025-09-02-writing.html#the-main-challenges-the-audience",
+    "href": "slides/2025-09-02-writing.html#the-main-challenges-the-audience",
+    "title": "Writing & Presenting",
+    "section": "The main challenges: the audience",
+    "text": "The main challenges: the audience\n\nThe audience doesn’t have the right background.\nThe audience doesn’t know what to expect.\nThe audience has not been thinking about similar topics.\n\n\n\n\n\n\n\nImportant\n\n\nYou have 10 / 20 minutes to get their attention and talk to them about how cool your project is."
+  },
+  {
+    "objectID": "slides/2025-09-02-writing.html#the-importance-of-examples",
+    "href": "slides/2025-09-02-writing.html#the-importance-of-examples",
+    "title": "Writing & Presenting",
+    "section": "The importance of examples",
+    "text": "The importance of examples\n\nEvery complicated idea should have an example to go with it.\nExamples should be very concrete. Use pictures, actual numbers, etc.\nExamples can even come before the complicated idea.\nCarry one or two examples through your talk and keep coming back to the same example(s).\n\n\n\n\n\n\n\nImportant\n\n\nA good concrete example is the lifeline that the audience can hang on to for the duration of the talk. Finding a good example is hard work and it can make or break a talk."
+  },
+  {
+    "objectID": "slides/2025-09-02-writing.html#presentation-to-do-list",
+    "href": "slides/2025-09-02-writing.html#presentation-to-do-list",
+    "title": "Writing & Presenting",
+    "section": "Presentation to-do list",
+    "text": "Presentation to-do list\n\nKnow what you are talking about.\nDon’t wing it.\nPractice… several times… in a realistic environment.\nCover less. Don’t try to do too much. You are not going to be able to cover every single aspect of your project."
+  },
+  {
+    "objectID": "slides/2025-09-02-writing.html#content-your-main-task",
+    "href": "slides/2025-09-02-writing.html#content-your-main-task",
+    "title": "Writing & Presenting",
+    "section": "Content: your main task",
+    "text": "Content: your main task\n\nWhat is the problem you are working on?\nYou want everyone to understand…\n\nthe setup,\nthe main concepts,\nthe main question, and\npossibly some of the answers.\n\n\n\n\n\n\n\n\nImportant\n\n\nThe write-up is different than the presentation. The presentation often covers the same ground as the introduction and the conclusion of your write-up."
+  },
+  {
+    "objectID": "slides/2025-09-02-writing.html#content-your-main-task-1",
+    "href": "slides/2025-09-02-writing.html#content-your-main-task-1",
+    "title": "Writing & Presenting",
+    "section": "Content: your main task",
+    "text": "Content: your main task\n\nWhat is the problem you are working on?\nYou want everyone to understand…\n\nthe setup,\nthe main concepts,\nthe main question, and\npossibly some of the answers.\n\n\n\n\n\n\n\n\nImportant\n\n\nThe write-up is different than the presentation. The presentation often covers the same ground as the introduction and the conclusion of your write-up.\n\nWhat is the story that you want to tell?"
+  },
+  {
+    "objectID": "slides/2025-09-02-writing.html#things-to-avoid",
+    "href": "slides/2025-09-02-writing.html#things-to-avoid",
+    "title": "Writing & Presenting",
+    "section": "Things to avoid",
+    "text": "Things to avoid"
+  },
+  {
+    "objectID": "slides/2025-08-26-intro.html#sharing-time",
+    "href": "slides/2025-08-26-intro.html#sharing-time",
+    "title": "Introduction to DS 190",
+    "section": "Sharing time",
+    "text": "Sharing time\n\nWhat is your project about?\nDo you have a faculty mentor?\nDo you have a dataset?\nWhat are the biggest hurdles you are currently expecting?"
+  },
+  {
+    "objectID": "slides/2025-08-26-intro.html#pre-course-survey",
+    "href": "slides/2025-08-26-intro.html#pre-course-survey",
+    "title": "Introduction to DS 190",
+    "section": "Pre-course survey",
+    "text": "Pre-course survey\n\nSee email"
+  },
+  {
+    "objectID": "slides/2025-09-02-writing.html#things-to-avoid-in-a-presentation",
+    "href": "slides/2025-09-02-writing.html#things-to-avoid-in-a-presentation",
+    "title": "Writing & Presenting",
+    "section": "Things to avoid in a presentation",
+    "text": "Things to avoid in a presentation\n\nDo not provide any detailed derivations\nAvoid jargon, use descriptive and concrete language to say things. Only define terms that you absolutely need for your talk.\nAvoid unnecessary generalizations, be as concrete as possible.\n\n\n\n\n\n\n\nImportant\n\n\nYour audience will not get hung up on some small detail of the work that is driving you bonkers."
+  },
+  {
+    "objectID": "slides/2025-09-02-writing.html#the-slides",
+    "href": "slides/2025-09-02-writing.html#the-slides",
+    "title": "Writing & Presenting",
+    "section": "The slides",
+    "text": "The slides\n\nwrite less, no complete sentences\nuse bullets and graphics\ninclude key ideas and phrases so that the audience doesn’t have to catch every word that you say\none idea per slide is a good yardstick\ndon’t jump back and forth\nslow down\nkeep ideas simple"
+  },
+  {
+    "objectID": "slides/2025-09-02-writing.html#the-talk",
+    "href": "slides/2025-09-02-writing.html#the-talk",
+    "title": "Writing & Presenting",
+    "section": "The talk",
+    "text": "The talk\n\ndon’t speed up\npractice the beginning several times, the first 5 minutes is the most crucial, and it is when you are most nervous\nrepeat key ideas. repeat key ideas. repetition is good.\nbe clear if you are going on a tangent\ndon’t change plans in the middle of the talk\nif nervous, pick a friendly face in the audience, and talk to them"
+  },
+  {
+    "objectID": "slides/2025-09-02-writing.html#bibtex-file",
+    "href": "slides/2025-09-02-writing.html#bibtex-file",
+    "title": "Writing & Presenting",
+    "section": "BibTeX file",
+    "text": "BibTeX file\n\ntext file (no formatting) with a .bib extension\neach entry is a reference\ncan include as many entries as you like, even if you don’t end up using all the sources"
+  },
+  {
+    "objectID": "slides/2025-09-02-writing.html#bibtex-entries",
+    "href": "slides/2025-09-02-writing.html#bibtex-entries",
+    "title": "Writing & Presenting",
+    "section": "BibTeX entries",
+    "text": "BibTeX entries\n@article{tukey1972,\n       author=\"J. Tukey\",\n       title=\"Data analysis, computation, and mathematics\",\n       journal=\"Quarterly of Applied Mathematics\",\n       volume=30,\n       pages=\"51-65\",\n       year=1972}\nSomewhere within your Quarto document you’ll have: @tukey1972 or maybe [@tukey1972]"
+  },
+  {
+    "objectID": "slides/2025-09-02-writing.html#bibtex-entries-1",
+    "href": "slides/2025-09-02-writing.html#bibtex-entries-1",
+    "title": "Writing & Presenting",
+    "section": "BibTeX entries",
+    "text": "BibTeX entries\nYou’ll use lots of different BibTeX options:\n\n@article\n@book\n@conference\n@inbook\n@techreport\n@unpublished"
+  },
+  {
+    "objectID": "slides/2025-09-02-writing.html#formatting",
+    "href": "slides/2025-09-02-writing.html#formatting",
+    "title": "Writing & Presenting",
+    "section": "Formatting",
+    "text": "Formatting\nFormatting the entries will be done in the Quarto YAML"
+  },
+  {
+    "objectID": "slides/2025-09-02-writing.html#see-example",
+    "href": "slides/2025-09-02-writing.html#see-example",
+    "title": "Writing & Presenting",
+    "section": "See example",
+    "text": "See example\n\nbibtex_example.qmd\ncapstone.bib"
   }
 ]

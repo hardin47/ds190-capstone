@@ -100,7 +100,12 @@ The Data Science capstone project should:
 * Perform the computational work required in the project.
 * Communicate the results of the project in writing and in a formal presentation.
 
+## Sharing time
 
+* What is your project about?
+* Do you have a faculty mentor?
+* Do you have a dataset?
+* What are the biggest hurdles you are currently expecting?
 
 ## Disciplinary Ethics in Data Science
 
@@ -109,3 +114,8 @@ The Data Science capstone project should:
 * small amount of reading
 
 * expectation for active participation in the conversation on those days
+
+
+## Pre-course survey
+
+* See email
