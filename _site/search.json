@@ -705,5 +705,12 @@
     "title": "Writing & Presenting",
     "section": "See example",
     "text": "See example\n\nbibtex_example.qmd\ncapstone.bib"
+  },
+  {
+    "objectID": "slides/2025-09-02-writing.html#next-up",
+    "href": "slides/2025-09-02-writing.html#next-up",
+    "title": "Writing & Presenting",
+    "section": "Next up",
+    "text": "Next up\n\nSeptember 9, data science ethics from a historical lens. Two really good pre-readings!\nSeptember 16 + 23 – first presentations!!!\n\n~10 min each\n\n5 or 6 people presenting on each day\nuse Quarto, Google slides, whatever"
   }
 ]

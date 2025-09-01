@@ -218,3 +218,16 @@ Formatting the entries will be done in the Quarto YAML
 
 * <a href = "https://ds190-capstone.netlify.app/slides/bibtex_example.qmd" target = "_blank">`bibtex_example.qmd`</a>
 * <a href = "https://ds190-capstone.netlify.app/slides/capstone.bib" target = "_blank">`capstone.bib`</a>
+
+
+## Next up
+
+* September 9, data science ethics from a historical lens.  Two really good pre-readings!
+
+* September 16 + 23 -- first presentations!!!  
+   - ~10 min each  
+   - 5 or 6 people presenting on each day
+   - use Quarto, Google slides, whatever
+
+
+
