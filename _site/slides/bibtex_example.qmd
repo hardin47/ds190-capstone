@@ -4,15 +4,12 @@ subtitle: Capstone in Data Science
 author: "Jo Hardin"
 date: "September 2, 2025"
 date-format: long
-format: 
-  pdf:
-    number-sections: true
+format: docx
 bibliography: capstone.bib
 execute:
   echo: true
   warning: false
   message: false
-
 ---
 
 # Introduction

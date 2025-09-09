@@ -52,7 +52,7 @@ schedule <- tribble(
    "Week 3 <br> 9.9.25", '<i class="fa-solid fa-comments"></i> EDS - history', 
   '<a href = "https://ds190-capstone.netlify.app/assignments" target = "_blank"><i class="fas fa-pencil-alt"></i> annotated bibliography</a>',
 
-  '<i class="fa-solid fa-book-open"></i> Van Noorden, Richard.  2020.  "The Ethical Questions That Haunt Facial-Recognition Research." Nature. <a href="https://library.claremont.edu/" target = "_blank">log in to the library to access the article</a> <br> <i class="fa-solid fa-book-open"></i> Johnson, Thaddeus L., and Natasha N. Johnson. 2023. <a href="https://www.scientificamerican.com/article/police-facial-recognition-technology-cant-tell-black-people-apart/" target = "_blank">Police Facial Recognition Technology Cant Tell Black People Apart.</a> Scientific American.',
+  '<i class="fa-solid fa-book-open"></i> Clever, Iris.  2023.  <a href = "https://www.journals.uchicago.edu/doi/10.1086/723686" target = "_blank">"Biometry against Fascism: Geoffrey Morant, Race, and Anti-Racism in Twentieth-Century Physical Anthropology."</a>  Isis.<br> <i class="fa-solid fa-book-open"></i> Van Noorden, Richard.  2020.  "The Ethical Questions That Haunt Facial-Recognition Research." Nature. <a href="https://library.claremont.edu/" target = "_blank">log in to the library to access the article</a> <br> <i class="fa-solid fa-book-open"></i> Johnson, Thaddeus L., and Natasha N. Johnson. 2023. <a href="https://www.scientificamerican.com/article/police-facial-recognition-technology-cant-tell-black-people-apart/" target = "_blank">Police Facial Recognition Technology Cant Tell Black People Apart.</a> Scientific American.',
 
      "Week 4 <br> 9.16.25", '1st presentation', 
   ' ',
