@@ -310,9 +310,9 @@
   {
     "objectID": "assignments.html",
     "href": "assignments.html",
-    "title": "Written assignments",
+    "title": "Assignments",
     "section": "",
-    "text": "You should be using GitHub to track your work and create a reproducible project with version control. You are welcome to use a prive repo, but I should be a collaborator (and your faculty advisor should also be a collaborator). My GitHub username is hardin47.\nAll of your assignments should be compiled to pdf and turned in to your GitHub repo with an apropriate title, for example, topic.pdf.\n\n\nIn one or two paragraphs, explain the topic of your capstone project. The write-up need not be technical and should be accessible to other data science minors (even if they have not had the same course background as you).\nFor the first draft, clearly and precisely spell out both the data aspect of your project as well as the advanced data-analytic method you will incorporate. Eventually the capstone topic draft will turn into the introduction for your final write-up. At that point (but not for the first draft), it will include an explanation of the scope of the project, and its value, as well as a short introduction to the sources. It will also include definitions of technical terms needed to understand your project.\n\n\n\nA list of relevant sources (at least 3), preceded by a paragraph or so explaining which are the main sources and what you will be doing with each. Additionally, you should have a source for your data (if you are using external data).\n\n\n\nA tentative outline of the titles of the major sections of your capstone project and a (short) narrative explaining what is going to go in each section.\n\n\n\nOne section of your capstone project. You might turn in a full section of your capstone or you might turn in, for example, a well-described analysis that you’ve done.\n\n\n\nRevise, expand, and complete either the introduction or the previous section. Now include a title page, the section titles (from your outline), one completed section, and a bibliography.\n\n\n\nA description of ethical challenges and how you’ve addressed them in your capstone project.\n\n\n\nUsing literate programming, your draft write-up should include an introduction, contextualization (e.g., literature review, background of problem, etc.), description of the data, ethical challenges and how you’ve addressed them, well-described analysis, ethics challenges / solutions, and conclusion.\n\n\n\nUsing literate programming, your final write-up should include an introduction, contextualization (e.g., literature review, background of problem, etc.), description of the data, ethical challenges and how you’ve addressed them, well-described analysis, and conclusion."
+    "text": "You should be using GitHub to track your work and create a reproducible project with version control. You are welcome to use a prive repo, but I should be a collaborator (and your faculty advisor should also be a collaborator). My GitHub username is hardin47.\nAll of your assignments should be compiled to pdf and turned in to your GitHub repo with an apropriate title, for example, topic.pdf."
   },
   {
     "objectID": "assignments.html#micro-essays-fewer-than-500-words",
@@ -401,23 +401,23 @@
   {
     "objectID": "assignments.html#topic-5-pts",
     "href": "assignments.html#topic-5-pts",
-    "title": "Written assignments",
-    "section": "",
-    "text": "In one or two paragraphs, explain the topic of your capstone project. The write-up need not be technical and should be accessible to other data science minors (even if they have not had the same course background as you).\nFor the first draft, clearly and precisely spell out both the data aspect of your project as well as the advanced data-analytic method you will incorporate. Eventually the capstone topic draft will turn into the introduction for your final write-up. At that point (but not for the first draft), it will include an explanation of the scope of the project, and its value, as well as a short introduction to the sources. It will also include definitions of technical terms needed to understand your project."
+    "title": "Assignments",
+    "section": "topic (5 pts)",
+    "text": "topic (5 pts)\nIn one or two paragraphs, explain the topic of your capstone project. The write-up need not be technical and should be accessible to other data science minors (even if they have not had the same course background as you).\nFor the first draft, clearly and precisely spell out both the data aspect of your project as well as the advanced data-analytic method you will incorporate. Eventually the capstone topic draft will turn into the introduction for your final write-up. At that point (but not for the first draft), it will include an explanation of the scope of the project, and its value, as well as a short introduction to the sources. It will also include definitions of technical terms needed to understand your project."
   },
   {
     "objectID": "assignments.html#annotated-bibliography-5-pts",
     "href": "assignments.html#annotated-bibliography-5-pts",
-    "title": "Written assignments",
-    "section": "",
-    "text": "A list of relevant sources (at least 3), preceded by a paragraph or so explaining which are the main sources and what you will be doing with each. Additionally, you should have a source for your data (if you are using external data)."
+    "title": "Assignments",
+    "section": "annotated bibliography (5 pts)",
+    "text": "annotated bibliography (5 pts)\nA list of relevant sources (at least 3), preceded by a paragraph or so explaining which are the main sources and what you will be doing with each. Additionally, you should have a source for your data (if you are using external data)."
   },
   {
     "objectID": "assignments.html#st-outline-5-pts",
     "href": "assignments.html#st-outline-5-pts",
-    "title": "Written assignments",
-    "section": "",
-    "text": "A tentative outline of the titles of the major sections of your capstone project and a (short) narrative explaining what is going to go in each section."
+    "title": "Assignments",
+    "section": "1st outline (5 pts)",
+    "text": "1st outline (5 pts)\nA tentative outline of the titles of the major sections of your capstone project and a (short) narrative explaining what is going to go in each section."
   },
   {
     "objectID": "assignments.html#chapter-section-draft-5-pts",
@@ -436,16 +436,16 @@
   {
     "objectID": "assignments.html#project-draft-10-pts",
     "href": "assignments.html#project-draft-10-pts",
-    "title": "Written assignments",
-    "section": "",
-    "text": "Using literate programming, your draft write-up should include an introduction, contextualization (e.g., literature review, background of problem, etc.), description of the data, ethical challenges and how you’ve addressed them, well-described analysis, ethics challenges / solutions, and conclusion."
+    "title": "Assignments",
+    "section": "project draft (10 pts)",
+    "text": "project draft (10 pts)\nUsing literate programming, your draft write-up should include an introduction, contextualization (e.g., literature review, background of problem, etc.), description of the data, ethical challenges and how you’ve addressed them, well-described analysis, ethics challenges / solutions, and conclusion."
   },
   {
     "objectID": "assignments.html#final-write-up-25-pts",
     "href": "assignments.html#final-write-up-25-pts",
-    "title": "Written assignments",
-    "section": "",
-    "text": "Using literate programming, your final write-up should include an introduction, contextualization (e.g., literature review, background of problem, etc.), description of the data, ethical challenges and how you’ve addressed them, well-described analysis, and conclusion."
+    "title": "Assignments",
+    "section": "final write-up (25 pts)",
+    "text": "final write-up (25 pts)\nUsing literate programming, your final write-up should include an introduction, contextualization (e.g., literature review, background of problem, etc.), description of the data, ethical challenges and how you’ve addressed them, well-described analysis, and conclusion."
   },
   {
     "objectID": "assignments.html#introduction-2nd-chapter-5-pts",
@@ -471,23 +471,23 @@
   {
     "objectID": "assignments.html#section-draft-5-pts",
     "href": "assignments.html#section-draft-5-pts",
-    "title": "Written assignments",
-    "section": "",
-    "text": "One section of your capstone project. You might turn in a full section of your capstone or you might turn in, for example, a well-described analysis that you’ve done."
+    "title": "Assignments",
+    "section": "section draft (5 pts)",
+    "text": "section draft (5 pts)\nOne section of your capstone project. You might turn in a full section of your capstone or you might turn in, for example, a well-described analysis that you’ve done."
   },
   {
     "objectID": "assignments.html#introduction-or-2nd-section-5-pts",
     "href": "assignments.html#introduction-or-2nd-section-5-pts",
-    "title": "Written assignments",
-    "section": "",
-    "text": "Revise, expand, and complete either the introduction or the previous section. Now include a title page, the section titles (from your outline), one completed section, and a bibliography."
+    "title": "Assignments",
+    "section": "introduction or 2nd section (5 pts)",
+    "text": "introduction or 2nd section (5 pts)\nRevise, expand, and complete either the introduction or the previous section. Now include a title page, the section titles (from your outline), one completed section, and a bibliography."
   },
   {
     "objectID": "assignments.html#ethics-component-5-pts",
     "href": "assignments.html#ethics-component-5-pts",
-    "title": "Written assignments",
-    "section": "",
-    "text": "A description of ethical challenges and how you’ve addressed them in your capstone project."
+    "title": "Assignments",
+    "section": "ethics component (5 pts)",
+    "text": "ethics component (5 pts)\nA description of ethical challenges and how you’ve addressed them in your capstone project."
   },
   {
     "objectID": "LICENSE.html#creative-commons-attribution-sharealike-4.0-international-public-license",
@@ -712,5 +712,47 @@
     "title": "Writing & Presenting",
     "section": "Next up",
     "text": "Next up\n\nSeptember 9, data science ethics from a historical lens. Two really good pre-readings!\nSeptember 16 + 23 – first presentations!!!\n\n~10 min each\n\n5 or 6 people presenting on each day\nuse Quarto, Google slides, whatever"
+  },
+  {
+    "objectID": "assignments.html#first-presentation",
+    "href": "assignments.html#first-presentation",
+    "title": "Written assignments",
+    "section": "First presentation",
+    "text": "First presentation\n(~10 minutes) The presentation should introduce the audience to your project, generally. Additionally, below are some aspects of the project which would be great to report on. Not everyone will cover all of the items, it will depend on your project and where you are in the process. Additionally, less is more. It is better to dig into one of the items below than to try to cover everything. We want to know the interesting aspects of the project.\n\nThe context of the project (i.e., the disciplinary questions that motivate the problem.)\nDetails of the data science / statistical / computer science / algorithmic model you will be applying.\nChallenges to the data collection aspect of the project. Scope of the data collection process.\nEthical concerns about the project (collecting data, analyzing data, presenting the work publicly, etc.)\nGeneral challenges – what is going to be the hardest part of the project?"
+  },
+  {
+    "objectID": "assignments.html#second-presentation",
+    "href": "assignments.html#second-presentation",
+    "title": "Written assignments",
+    "section": "Second presentation",
+    "text": "Second presentation\n(~10 minutes) The second presentation should be similar to the first presentation, except you’ll have more to present. Same suggestion applies: it is more interesting to go into one detail of your project than to try to cover every single aspect of the project."
+  },
+  {
+    "objectID": "assignments.html#final-presentation",
+    "href": "assignments.html#final-presentation",
+    "title": "Written assignments",
+    "section": "Final presentation",
+    "text": "Final presentation\n(~20 minutes) You will be presenting your completed project. Try to tell a story, give the most interesting aspects, don’t try to include every single thing. See the presentation notes for more suggestions."
+  },
+  {
+    "objectID": "assignments.html#first-presentation-10-pts",
+    "href": "assignments.html#first-presentation-10-pts",
+    "title": "Assignments",
+    "section": "First presentation (10 pts)",
+    "text": "First presentation (10 pts)\n(~10 minutes) The presentation should introduce the audience to your project, generally. Additionally, below are some aspects of the project which would be great to report on. Not everyone will cover all of the items, it will depend on your project and where you are in the process. Additionally, less is more. It is better to dig into one of the items below than to try to cover everything. We want to know the interesting aspects of the project.\n\nThe context of the project (i.e., the disciplinary questions that motivate the problem.)\nDetails of the data science / statistical / computer science / algorithmic model you will be applying.\nChallenges to the data collection aspect of the project. Scope of the data collection process.\nEthical concerns about the project (collecting data, analyzing data, presenting the work publicly, etc.)\nGeneral challenges – what is going to be the hardest part of the project?"
+  },
+  {
+    "objectID": "assignments.html#second-presentation-10-pts",
+    "href": "assignments.html#second-presentation-10-pts",
+    "title": "Assignments",
+    "section": "Second presentation (10 pts)",
+    "text": "Second presentation (10 pts)\n(~10 minutes) The second presentation should be similar to the first presentation, except you’ll have more to present. Same suggestion applies: it is more interesting to go into one detail of your project than to try to cover every single aspect of the project."
+  },
+  {
+    "objectID": "assignments.html#final-presentation-25-pts",
+    "href": "assignments.html#final-presentation-25-pts",
+    "title": "Assignments",
+    "section": "Final presentation (25 pts)",
+    "text": "Final presentation (25 pts)\n(~20 minutes) You will be presenting your completed project. Try to tell a story, give the most interesting aspects, don’t try to include every single thing. See the presentation notes for more suggestions."
   }
 ]

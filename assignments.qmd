@@ -1,5 +1,5 @@
 ---
-title: "Written assignments"
+title: "Assignments"
 format: html
 description: |
     Assignments are an important part of the capstone project. Staying on top of completing the assignments is the key to your success. All assignments should be done with literate programming, compiled to pdf, and submitted to your GitHub repository. Grading will be done using a "reasonable person" test. That is, if a reasonable person would think your annotated bibliography is an annotated bibliography, you will get full credit.
@@ -14,6 +14,8 @@ knitr::opts_chunk$set(echo = FALSE)
 You should be using GitHub to track your work and create a reproducible project with version control. You are welcome to use a prive repo, but I should be a collaborator (and your faculty advisor should also be a collaborator).  My GitHub username is `hardin47`. 
 
 All of your assignments should be compiled to pdf and turned in to your GitHub repo with an apropriate title, for example, `topic.pdf`.
+
+# Written assignments
 
 ## topic (5 pts)
 
@@ -53,3 +55,27 @@ Using literate programming, your draft write-up should include an introduction, 
 
 Using literate programming, your final write-up should include an introduction, contextualization (e.g., literature review, background of problem, etc.), description of the data, ethical challenges and how you've addressed them, well-described analysis, and conclusion.
  
+# Presentations
+
+
+## First presentation (10 pts)
+
+(~10 minutes) The presentation should introduce the audience to your project, generally. Additionally, below are some aspects of the project which would be great to report on. Not everyone will cover all of the items, it will depend on your project and where you are in the process.  Additionally, less is more. It is better to dig into one of the items below than to try to cover everything. We want to know the interesting aspects of the project.
+
+
+* The context of the project (i.e., the disciplinary questions that motivate the problem.)
+* Details of the data science / statistical / computer science / algorithmic model you will be applying.
+* Challenges to the data collection aspect of the project. Scope of the data collection process.
+* Ethical concerns about the project (collecting data, analyzing data, presenting the work publicly, etc.)
+* General challenges -- what is going to be the hardest part of the project?
+
+## Second presentation (10 pts)
+
+(~10 minutes) The second presentation should be similar to the first presentation, except you'll have more to present. Same suggestion applies: it is more interesting to go into one detail of your project than to try to cover every single aspect of the project.
+
+
+## Final presentation (25 pts)
+
+(~20 minutes) You will be presenting your completed project. Try to tell a story, give the most interesting aspects, don't try to include every single thing.  See the <a href = "https://ds190-capstone.netlify.app/slides/2025-09-02-writing" target = "_blank">presentation notes</a> for more suggestions.
+
+
