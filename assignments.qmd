@@ -60,7 +60,7 @@ Using literate programming, your final write-up should include an introduction, 
 
 ## First presentation (10 pts)
 
-(~10 minutes) The presentation should introduce the audience to your project, generally. Additionally, below are some aspects of the project which would be great to report on. Not everyone will cover all of the items, it will depend on your project and where you are in the process.  Additionally, less is more. It is better to dig into one of the items below than to try to cover everything. We want to know the interesting aspects of the project.
+(~ 7-10 minutes) The presentation should introduce the audience to your project, generally. Additionally, below are some aspects of the project which would be great to report on. Not everyone will cover all of the items, it will depend on your project and where you are in the process.  Additionally, less is more. It is better to dig into one of the items below than to try to cover everything. We want to know the interesting aspects of the project.
 
 
 * The context of the project (i.e., the disciplinary questions that motivate the problem.)
@@ -71,7 +71,7 @@ Using literate programming, your final write-up should include an introduction, 
 
 ## Second presentation (10 pts)
 
-(~10 minutes) The second presentation should be similar to the first presentation, except you'll have more to present. Same suggestion applies: it is more interesting to go into one detail of your project than to try to cover every single aspect of the project.
+(~10-12 minutes) The second presentation should be similar to the first presentation, except you'll have more to present. Same suggestion applies: it is more interesting to go into one detail of your project than to try to cover every single aspect of the project.
 
 
 ## Final presentation (25 pts)
