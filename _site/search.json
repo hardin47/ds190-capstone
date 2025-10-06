@@ -739,14 +739,14 @@
     "href": "assignments.html#first-presentation-10-pts",
     "title": "Assignments",
     "section": "First presentation (10 pts)",
-    "text": "First presentation (10 pts)\n(~ 7-10 minutes) The presentation should introduce the audience to your project, generally. Additionally, below are some aspects of the project which would be great to report on. Not everyone will cover all of the items, it will depend on your project and where you are in the process. Additionally, less is more. It is better to dig into one of the items below than to try to cover everything. We want to know the interesting aspects of the project.\n\nThe context of the project (i.e., the disciplinary questions that motivate the problem.)\nDetails of the data science / statistical / computer science / algorithmic model you will be applying.\nChallenges to the data collection aspect of the project. Scope of the data collection process.\nEthical concerns about the project (collecting data, analyzing data, presenting the work publicly, etc.)\nGeneral challenges – what is going to be the hardest part of the project?"
+    "text": "First presentation (10 pts)\n(~6-8 minutes) The presentation should introduce the audience to your project, generally. Additionally, below are some aspects of the project which would be great to report on. Not everyone will cover all of the items, it will depend on your project and where you are in the process. Additionally, less is more. It is better to dig into one of the items below than to try to cover everything. We want to know the interesting aspects of the project.\n\nThe context of the project (i.e., the disciplinary questions that motivate the problem.)\nDetails of the data science / statistical / computer science / algorithmic model you will be applying.\nChallenges to the data collection aspect of the project. Scope of the data collection process.\nEthical concerns about the project (collecting data, analyzing data, presenting the work publicly, etc.)\nGeneral challenges – what is going to be the hardest part of the project?"
   },
   {
     "objectID": "assignments.html#second-presentation-10-pts",
     "href": "assignments.html#second-presentation-10-pts",
     "title": "Assignments",
     "section": "Second presentation (10 pts)",
-    "text": "Second presentation (10 pts)\n(~10-12 minutes) The second presentation should be similar to the first presentation, except you’ll have more to present. Same suggestion applies: it is more interesting to go into one detail of your project than to try to cover every single aspect of the project."
+    "text": "Second presentation (10 pts)\n(~8-10 minutes) The second presentation should be similar to the first presentation, except you’ll have more to present. Same suggestion applies: it is more interesting to go into one detail of your project than to try to cover every single aspect of the project. By this point, everyone should have their data (unless, for example, collecting data is the endpoint of the project). Describing the details of the data to the class, including plots, would be an excellent second presentation."
   },
   {
     "objectID": "assignments.html#final-presentation-25-pts",
