@@ -102,7 +102,7 @@ schedule <- tribble(
 
  ' ',
 
-      "11.25.25", 'Thanksgiving break', 
+      "11.25.25", 'Thanksgiving break <br> no class, one-on-one check-ins', 
   ' ',
   ' ',  
   
