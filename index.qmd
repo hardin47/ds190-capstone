@@ -72,7 +72,7 @@ schedule <- tribble(
   
      "Week 7 <br> 10.7.25", '<i class="fa-solid fa-comments"></i> EDS - philosophy', 
   '<a href = "https://ds190-capstone.netlify.app/assignments" target = "_blank"><i class="fas fa-pencil-alt"></i> section draft</a>',
-  '<i class="fa-solid fa-book-open"></i> Johnson, G.M. 2023. Are Algorithms Value-Free? Feminist Theoretical Virtues in Machine Learning. Journal of Moral Philosophy 21 (1-2): 27-61. <a href = "https://doi.org/10.1163/17455243-20234372" target = "_blank">https://doi.org/10.1163/17455243-20234372</a> <b>the pdf is available on Canvas!!!!</b> <br> <i class="fa-solid fa-book-open"></i> Dastin, J. (2018, October 11). <a href = "https://www.reuters.com/article/world/insight-amazon-scraps-secret-ai-recruiting-tool-that-showed-bias-against-women-idUSKCN1MK0AG/" target = "_blank">Insight — Amazon scraps secret AI recruiting tool that showed bias against women.</a> Reuters. ',
+  '<i class="fa-solid fa-book-open"></i> Johnson, G.M. 2023. Are Algorithms Value-Free? Feminist Theoretical Virtues in Machine Learning. Journal of Moral Philosophy 21 (1-2): 27-61. <a href = "https://doi.org/10.1163/17455243-20234372" target = "_blank">https://doi.org/10.1163/17455243-20234372</a> <b>the pdf is available on Canvas!!!!</b> <br> <i class="fa-solid fa-book-open"></i> Dastin, J. (2018, October 11). <a href = "https://www.reuters.com/article/world/insight-amazon-scraps-secret-ai-recruiting-tool-that-showed-bias-against-women-idUSKCN1MK0AG/" target = "_blank">Insight — Amazon scraps secret AI recruiting tool that showed bias against women.</a> Reuters.',
 
       "10.14.25", 'fall break', 
   ' ',
@@ -89,20 +89,19 @@ schedule <- tribble(
   
      "Week 10 <br> 11.4.25", '<i class="fa-solid fa-comments"></i> EDS - psychology', 
   '<a href = "https://ds190-capstone.netlify.app/assignments" target = "_blank"><i class="fas fa-pencil-alt"></i> introduction or 2nd section</a>',
- '<i class="fa-solid fa-book-open"></i> OGrady, Cathleen. 2024. <a href = "https://doi.org/10.1126/science.z7jdvzt" target = "_blank">Psychology Study Participants Recruited Online May Provide Nonsensical Answers.</a> Science 384 (6697). <br> <i class="fa-solid fa-book-open"></i> Coley, R. Yates, Eric Johnson, Gregory E. Simon, Maricela Cruz, and Susan M. Shortreed.2021. <a href = "https://doi.org/10.1001/jamapsychiatry.2021.0493" target = "_blank">Racial/Ethnic Disparities in the Performance of Prediction Models for Death by Suicide After Mental Health Visits.</a> JAMA Psychiatry 78 (7): 726–34.',
+ '<i class="fa-solid fa-book-open"></i> OGrady, Cathleen. 2024. <a href = "https://doi.org/10.1126/science.z7jdvzt" target = "_blank">Psychology Study Participants Recruited Online May Provide Nonsensical Answers.</a> Science 384 (6697). <br> <i class="fa-solid fa-book-open"></i> Coley, R. Yates, Eric Johnson, Gregory E. Simon, Maricela Cruz, and Susan M. Shortreed. 2021. <a href = "https://doi.org/10.1001/jamapsychiatry.2021.0493" target = "_blank">Racial/Ethnic Disparities in the Performance of Prediction Models for Death by Suicide After Mental Health Visits.</a> JAMA Psychiatry 78 (7): 726–34.',
   
   
      "Week 11 <br> 11.11.25", 'check-in', 
   '<a href = "https://ds190-capstone.netlify.app/assignments" target = "_blank"><i class="fas fa-pencil-alt"></i> ethics component</a>',
  ' ',
   
-  
      "Week 12 <br> 11.18.25", '<i class="fa-solid fa-comments"></i> EDS - economics', 
   '<a href = "https://ds190-capstone.netlify.app/assignments" target = "_blank"><i class="fas fa-pencil-alt"></i> project draft</a>',
 
- ' ',
+ '<i class="fa-solid fa-book-open"></i> B. Holt, C. Szyfer, H. Steinhauer, and J. Ottenberg, 2025. <a href = "https://www.hoganlovells.com/en/publications/recent-developments-in-algorithmic-pricing-us-appeals-court-weighs-in" target = "_blank">Recent developments in algorithmic pricing: U.S. appeals court weighs in, enforcers stay aggressive, and open questions remain.</a>  <br> <i class="fa-solid fa-book-open"></i> DavisPolk, 2025. <a href = "https://www.davispolk.com/insights/client-update/new-laws-regulating-algorithmic-pricing-enacted-new-york-and-california" target = "_blank">New laws regulating algorithmic pricing enacted in New York and California.</a> <br> <i class="fa-solid fa-book-open"></i> E. Calvano, G. Calzolari, V. Denicolò, S. Pastor, and A. Roehm, 2020. <a href = "https://www.science.org/doi/10.1126/science.abe3796" target = "_blank">Protecting consumers from collusive prices due to AI,</a> Science 370 (6518), pgs 626 - 628. To access the article, go to the <a href = "https://library.claremont.edu/accounts/" target = "_blank">Claremont Colleges Library</a> and search for the title.',
 
-      "11.25.25", 'Thanksgiving break <br> no class, one-on-one check-ins', 
+      "11.25.25", 'Thanksgiving break <br> no class, optional one-on-one check-ins', 
   ' ',
   ' ',  
   
