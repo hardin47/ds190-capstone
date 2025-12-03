@@ -49,7 +49,7 @@ A description of ethical challenges and how you've addressed them in your capsto
 
 ## project draft (10 pts)
 
-Using literate programming, your draft write-up should include an introduction, contextualization (e.g., literature review, background of problem, etc.), description of the data, ethical challenges and how you've addressed them, well-described analysis, ethics challenges / solutions, and conclusion.
+Using literate programming, your draft write-up should include an introduction, contextualization (e.g., literature review, background of problem, etc.), description of the data, ethical challenges and how you've addressed them, well-described analysis, and conclusion.
 
 ## final write-up (25 pts)
 
