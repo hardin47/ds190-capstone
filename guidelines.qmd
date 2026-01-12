@@ -8,11 +8,11 @@ format: html
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-### for the DS 190 Data Science Capstone
+## for the DS 190 Data Science Capstone
 
 Welcome to the Data Science Capstone Guidelines! This document serves to answer questions you have about the capstone course. Please reach out to Jo Hardin (jo.hardin@pomona.edu) with any questions.
 
-#### DS 190 Catalog description: 
+### DS 190 Catalog description: 
 A required capstone project seminar in which senior data science minors focus their disciplinary curricular backgrounds (outside of statistics, mathematics, or computer science) on a sophisticated data science project. Professional skills developed include: ethics, project management, collaborative software development, documentation and consulting. Regular meetings, weekly progress reports, interim and final reports, and multiple presentations are required. Open only to Data Science minors. Prerequisites: DS002R (or equivalent), CSCI051 (or equivalent), MATH060, MATH058 (or equivalent), and data science ethics.
 
 #### Prerequisites:  
