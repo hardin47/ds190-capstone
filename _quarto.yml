@@ -25,6 +25,8 @@ website:
     right:
       - text: "Syllabus"
         href: syllabus.qmd
+      - text: "Guidelines"
+        href: guidelines.qmd
       - text: "Assignments"
         href: assignments.qmd
     logo: images/st47s.png
