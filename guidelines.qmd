@@ -36,6 +36,8 @@ the 5 core courses must be completed by the end of the junior year in order to b
 * include a discussion of ethical issues that came up along with any solutions you used to address the ethical issues; and
 * focus on a question originating from or responding to a domain outside of statistics, mathematics, and computer science.
 
+You might be curious to look through <a href = "https://hardin47.netlify.app/research/student-work/" target = "_blank">summaries of previous capstones</a> (click on "DS Minor Capstones").
+
 ### Capstone structure:
 * Offered in fall semesters
 * Taken in the student’s senior year
