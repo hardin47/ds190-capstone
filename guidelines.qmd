@@ -66,6 +66,78 @@ Identify resources on campus that can provide technical support.
 
 
 
+## Pre-approved upper division courses
+
+The following courses have been pre-approved as the upper division elective course required for the minor at Pomona.
+
+### Approved upper division electives with programming
+* Data Science For Conservation Biology - BIOL108 PO
+* Intro Computational Neuroscience - BIOL133L KS
+* Population Genomics - BIOL136: KS
+* Genomics and Bioinformatics - BIOL156L KS
+* Genomics & Transcriptomics w/Lab - BIOL170 PO
+* Genomics & Bioinformatics w/Lab - BIOL173 PO or BIOL 173B PO
+* Data Analysis for Life Sciences - BIOL174 PO 
+* Computer Science for Insight - CSCI035 HM
+* Computer Systems - CSCI105 PO
+* Programming Languages - CSCI131 PO
+* Database Systems - CSCI133 PO
+* Operating Systems Principles - CSCI134 PO
+* Applied Algorithms - CSCI143 PO
+* Artificial Intelligence - CSCI151 PO
+* Neural Networks - CSCI152 PO
+* Machine Learning - CSCI158 PO
+* Natural Language Processing - CSCI159 PO
+* Real-Time Graphics and Game Engine Programming - CSCI181G PO
+* Advanced Functional Programming - CSCI181N PO
+* Computer Organization and Design - CSCI181ORPO
+* Graph Algorithm and Application - CSCI181Q PO
+* System Security - CSCI181S PO
+* Managing Complex Systems Lab - CSCI181SLPO
+* Principles of Programming Languages: Object-Oriented - CSCI181V PO
+* Data Analytics & Visualization - CSCI-181AP HM
+* Applied Econometrics - ECON107 PO
+* Economics of Sports - ECON 118
+* Economics of Crime - ECON 120
+* Data Science & Stats Learning - ECON122 CM
+* Poverty and Income Distribution - ECON122 PO
+* Econometrics I - ECON125 CM
+* Empirical Methods of Industrial Organization - ECON132
+* Labor Economics - ECON150 PO
+* Econometrics - ECON167 PO
+* Advanced Econometrics - ECON169 PO
+* Corpus Linguistics - LGCS124 PO
+* Computational Linguistics / NLP - LGCS129 PO
+* Topics in Quantitative Linguistics - LGCS181 PO
+* Computation and Experimentation in Mathematics - MATH061 PO
+* Methods in Biostatistics - MATH150 PO
+* Bayesian Statistics - MATH153 PO / HM
+* Computational Statistics - MATH154 PO
+* Time Series - MATH155 PO / HM
+* Statistical Linear Models - MATH158 PO / HM
+* Mathematical Modeling - MATH 183 PO / SC and MATH 185 SC
+* Introduction to Computer Music - MUS 088 HM
+* Neuroimaging with fMRI w/ Lab - NEUR118 PO
+* Introduction to Computational Neuroscience - NEUR133L KS
+* Selected topics in Computational Neuroscience - NEUR155L KS
+* Machine Learning w Neural Signal - NEUR182 SC / PSYCH182 SC
+* Computational Phys/Engineering - PHYS100 KS
+* Programming for Science+Engineer - PHYS108 KS
+* Advanced Statistics: Psychometrics and Multivariate Methods - PSYCH137 CMC
+* Emotion & Motivation w/ Lab - PSYC163 PO
+
+### Approved upper division electives without programming
+
+If your introductory statistics course included a substantial component of coding/programming with data or coding/programming algorithms, then the upper division elective can be fulfilled with a course that does not include programming.
+
+* Usable Security and Privacy - CSCI181W PO
+* Chinese Language in Society - CHIN150 PO
+* Chinese Language and Gender - CHIN153 PO
+* GIS for Geologists - GEOL189G PO
+* Introduction to Digital Humanities, Women and Politics in Latin America - HIST101M PO
+* Probability Theory - MATH 151
+* Statistical Theory - MATH 152
+* Advanced Linear Algebra - MATH173 PO
 
 
 
