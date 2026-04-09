@@ -72,7 +72,6 @@ The following courses have been pre-approved as the upper division elective cour
 
 ### Approved upper division electives with programming
 * Data Science For Conservation Biology - BIOL108 PO
-* Intro Computational Neuroscience - BIOL133L KS
 * Population Genomics - BIOL136: KS
 * Genomics and Bioinformatics - BIOL156L KS
 * Genomics & Transcriptomics w/Lab - BIOL170 PO
@@ -133,7 +132,7 @@ If your introductory statistics course included a substantial component of codin
 * Usable Security and Privacy - CSCI181W PO
 * Chinese Language in Society - CHIN150 PO
 * Chinese Language and Gender - CHIN153 PO
-* GIS for Geologists - GEOL189G PO
+* GIS for Geologists - GEOL111 PO
 * Introduction to Digital Humanities, Women and Politics in Latin America - HIST101M PO
 * Probability Theory - MATH 151
 * Statistical Theory - MATH 152
