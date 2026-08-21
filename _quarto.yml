@@ -7,6 +7,9 @@ project:
     - "handout/*"
     - "slides/bibtex_example.qmd"
     - "slides/capstone.bib"
+  render:
+    - "*.qmd"
+    - "!index20*.qmd"
   
 website:
   title: "Capstone in Data Science"

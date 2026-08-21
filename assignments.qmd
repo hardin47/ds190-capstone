@@ -69,9 +69,8 @@ Using literate programming, your final write-up should include an introduction, 
 * Ethical concerns about the project (collecting data, analyzing data, presenting the work publicly, etc.)
 * General challenges -- what is going to be the hardest part of the project?
 
-## Second presentation (10 pts)
 
-(~8-10 minutes) The second presentation should be similar to the first presentation, except you'll have more to present. Same suggestion applies: it is more interesting to go into one detail of your project than to try to cover every single aspect of the project. By this point, everyone should have their data (unless, for example, collecting data is the endpoint of the project). Describing the details of the data to the class, including plots, would be an excellent second presentation.
+Remember, you don't have much time. Tell us something interesting, do not try to tell us everything.
 
 
 ## Final presentation (25 pts)
