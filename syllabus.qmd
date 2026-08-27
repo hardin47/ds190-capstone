@@ -4,26 +4,25 @@ format: html
 ---
 
 # Capstone in Data Science
-## DS190, Fall 2025
+## DS190, Fall 2026
 
 Jo Hardin
 2351 Estella
 jo.hardin@pomona.edu
 
-Class: Tuesdays, 1:15-2:30pm, Estella 2099
+Class: Tuesdays, 2:45-4pm, Estella 2141
 
 
-**Office Hours: (Estella 2351)**
-
-Monday: 2:30-5:00pm  
+**Office Hours: (Estella 2351)**  
+Monday: 1:30-4:30pm  
 Tuesday: 9-11am   
-Thursday: 1:15-3pm 
+Thursday: 1:30-3pm 
 
 
 ## The Course.  
 Capstone in Data Science exists as a way to support the data science minor capstone courses.
 The capstone project is outside of statistics, mathematics, and computer science, emphasizing work in aligned disciplines.
-The students will bring together the work they have done in data scienc with problems in other disciplines, and they will consider the ethical implications of their questions and their work.
+Students will bring together the work they have done in data science with problems in other disciplines, and they will consider the ethical implications of their questions and their work.
 Prerequisite: all DS minor core courses including statistics, linear algebra, computer science, data science, and ethics in data science. 
 
 **Anonymous Feedback**  As someone who is constantly learning and growing in many ways, I welcome your feedback about the course, the classroom dynamics, or anything else you'd like me to know.  There is a link to an anonymous feedback form on the landing page of our Canvas webpage.  Please provide me with feedback at any time!  
@@ -65,10 +64,9 @@ I (like many people) am still in the process of learning about diverse perspecti
 
 ## Daily.  
 
-#### In class: please no phones or computers.
+#### In class: no phones or computers.
 
-
-In class time will consist of two types of class sessions.  Some of our class sessions will consist of working through the logistics surrounding your projects. For example, some days we will talk about the projects themselves, some days we will talk about how to turn in assignments, and some days you will be presenting. During 5 of our class sessions, we will talk about ethics in data science through the lens of a discipline (history, linguistics, philosophy, psychology, and economics). 
+In class time will consist of two types of class sessions.  Some of our class sessions will consist of working through the logistics surrounding your projects. For example, some days we will talk about the projects themselves, some days we will talk about how to turn in assignments, and some days you will be presenting. During 5 of our class sessions, we will talk about ethics in data science through the lens of a discipline (engineering, philosophy, linguistics, and ecology). 
 
 There is an expectation that you attend every class meeting and stay engaged in our discussions. On the ethical data science discussion days, you will have reading that you should do before coming to class.
  
@@ -81,12 +79,105 @@ The final data science capstone project is a written paper. During the semester,
 ## Reading.  
 There will be expected reading on each of the five days when we discuss ethical data science. The readings will be posted on the <a href = "https://ds190-capstone.netlify.app/">front page of the course webpage</a>. Some of the readings are hyper-linked. Others are available at the Claremont Colleges library, and you will need to login to the library to access the reading.
 
+## Presenting.
+Each of the presentations will be given by way of you describing pre-prepared slides. You may not read from your phone or any papers during your presentation. Your slides will act as your notes, you should not need additional notes. 
+
+
+#### Academic Honesty:
+
+Throughout the semester, you will be challenged, and you may find yourself stuck.
+Every single one of us has been there, I promise.
+Below, I've provided Pomona's academic honesty policy.  But before the policy, I've given some thoughts on cheating which I have taken from Nick Ball's CHEM 147 Collective (thank you, Prof Ball!).
+Prof Ball gives us all something to think about when we are learning in a classroom as well as on our journey to become scientists and professionals:
+
+:::{.callout-tip icon=false}
+## Why Cheat?
+There are many known reasons why we may feel the need to "cheat" on problem sets or exams:
+
+* An academic environment that values grades above learning.
+* Financial aid is critical for remaining in school that places undue pressure on maintaining a high GPA.
+* Navigating school, work, and/or family obligations that  have diverted focus from class.
+* Challenges balancing coursework and mental health.
+* Balancing academic, family, peer, or personal issues.
+
+Being accused of cheating – whether it has occurred or not – can be devastating for students. The college requires me to respond to potential academic dishonesty with a process that is very long and damaging. As your instructor, I care about you and want to offer alternatives to prevent us from having to go through this process.
+:::
+
+If you find yourself in a situation where "cheating" seems like the only option, please come talk to me.  We will figure this out together.
+
+
+##### Pomona's Academic Honesty Policy
+The College expects students to understand and adhere to basic standards of honesty and academic integrity. These standards include but are not limited to the following: 
+
+* In projects and assignments (including homework) prepared independently, students never intentionally represent the ideas or the language of others as their own, examples include but are not limited to plagiarism, failing to use citations, unapproved use of artificial intelligence and resubmitted personal work for another course. 
+* Students do not destroy or alter either the work of other students or the educational resources and materials of the College. 
+* Students neither give nor receive assistance with examinations. 
+* Students do not represent work completed for one course as original work for another or deliberately disregard course rules and regulations. 
+* In laboratory or research projects involving the collection of data, students accurately report data observed and do not alter or fabricate data for any reason 
+
+
+:::{.callout-tip icon=false}
+# My AI use policy^[Many of the ideas below are from https://provost.tufts.edu/celt/online-resources/artificial-intelligence/ai-syllabus-statements/]
+
+If you choose to use AI for any of the assignments for this class, you should pay attention to where you obtained any relevant information.
+Submitting work created by a generative AI as your own in any assignment is considered plagiarism, and therefore an academic integrity violation, just the same as copying work from any other source.
+
+**Attribution**  
+* As with any other reference you might find, any directly copied text from generative AI should be in quotes and given a citation. Any summarized text from generative AI should be referenced.
+* Cite all AI tools when used or referred to in assigned work.  For example, see how to cite generative AI in <a href = "https://apastyle.apa.org/blog/how-to-cite-chatgpt" target = "_blank">APA</a>, <a href = "https://style.mla.org/citing-generative-ai/" target = "_blank">MLA</a>, or <a href = "https://www.chicagomanualofstyle.org/qanda/data/faq/topics/Documentation/faq0422.html" target = "_blank">Chicago</a> styles. 
+
+**Permitted**  
+* Clarifying concepts (after attempting to understand them yourself, and then checking course materials or other credible sources for accuracy)
+* Organizing and outlining your thoughts
+* Grammar and spelling assistance
+* Asking AI for practice questions or explanations of concepts (after attempting them yourself first), then checking your understanding against course materials
+* Using AI to generate examples, counterarguments, or alternative perspectives that help you develop more nuanced thinking
+* Debugging code, checking syntax, or troubleshooting errors (with the expectation that you understand and **can explain** any final code that you submit)
+* Asking for help understanding a concept (please include "do not generate code. only explain in words." to the prompt).
+
+**Not permitted**  
+* Having AI generate any sentences or paragraphs that appear in your final work without quotation marks and attribution
+* Using AI to write arguments, code, proofs, or problem solutions that you submit as your own
+* Generating code for an assignment (please include "do not generate code. only explain
+in words.” within any prompt designed to help you understand ideas from the course)
+* Asking AI to outline or structure your assignment before you have developed your own approach
+* Using AI to summarize readings or course materials in place of doing the reading yourself
+* Submitting code (or full chunks of code) that has been written in whole by AI 
+
+
+**My commitment**  
+I commit to not using AI to assess any part of your work. I will fully engage with your assignments without the use of AI.
+:::
+
+
+
+#### Advice:
+
+Please email and / or set up a time to talk if you have any questions about or difficulty with the material, the computing, or the course.  Talk to me as soon as possible if you find yourself struggling. The material will build on itself, so it will be much easier to catch up if the concepts get clarified earlier rather than later.  This semester is going to be fun.  Let's do it.
+
+
+
+## Philosophy on AI use
+
+The goals of the course including **learning** core content and becoming skilled at using analysis tools accurately and effectively. While sometimes quite helpful, there are ways that AI can get in the way of the **learning**, for example:
+
+* Learning takes struggle, and generative AI usually removes the struggle.
+* Generative AI will often be wrong, maybe because it doesn't understand the prompt or maybe because it is hallucinating.
+* Learning takes practice, particularly by building muscles related to creative and independent thinking. Generative AI removes the practice.
+
+There are also ways that AI can be **ethically problematic**, for example:
+
+* Generative AI queries use large amounts of resources.
+* Generative AI is based on intellectual property (often illegally) taken from scholars, artists, and journalists.
+* The rise of generative AI impacts the number of jobs available to people like you.
+
+I encourage you to reflect on your use of AI in this class and elsewhere. Is your use consistent with the **learning** that brings you to a place like Pomona College? Are you considering the **ethical ramifications** associated with using AI?  See the academic honesty part of the syllabus for generative AI policy.
+
 
 
 ## Grades.  
 
 Your final grade will be calculated using the following points system below.  There are 120 total points. 90% of 120 is 108 points.
-
 
 
  topic: 5pts  
