@@ -180,20 +180,20 @@ I encourage you to reflect on your use of AI in this class and elsewhere. Is you
 Your final grade will be calculated using the following points system below.  There are 120 total points. 90% of 120 is 108 points.
 
 
- topic: 5pts  
- annotated bibliography: 5pts  
- 1st outline: 5pts  
- section draft: 5pts  
- introduction or 2nd section: 5pts  
- ethics component: 5pts  
- project draft: 10pts  
- final write-up: 25pts  
+ topic: 5 pts  
+ annotated bibliography: 5 pts  
+ 1st outline: 5 pts  
+ section draft: 5 pts  
+ introduction or 2nd section: 5 pts  
+ ethics component: 5 pts  
+ project draft: 10 pts  
+ final write-up: 25 pts  
  
- 1st presentation: 10pts  
- 2nd presentation: 10pts  
- final presentation: 25pts  
+ 1st presentation: 10 pts  
+ final presentation: 25 pts  
  
- active participation in ethics conversations: 10pts
+ active participation in ethics conversations: 10 pts
+ attendence: 10 pts
  
 
 

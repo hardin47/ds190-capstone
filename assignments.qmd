@@ -13,7 +13,9 @@ knitr::opts_chunk$set(echo = FALSE)
 
 You should be using GitHub to track your work and create a reproducible project with version control. You are welcome to use a prive repo, but I should be a collaborator (and your faculty advisor should also be a collaborator).  My GitHub username is `hardin47`. 
 
-All of your assignments should be compiled to pdf and turned in to your GitHub repo with an apropriate title, for example, `topic.pdf`.
+All of your assignments should be compiled to pdf and turned in to your GitHub repo with an apropriate title, for example, `topic.pdf`. 
+In Canvas, submit the GitHub link to the appropriate pdf file.  
+Note, the original file (ideally in a format like Quarto) should **also** be included in the repo.
 
 # Written assignments
 
@@ -78,3 +80,12 @@ Remember, you don't have much time. Tell us something interesting, do not try to
 (~20 minutes) You will be presenting your completed project. Try to tell a story, give the most interesting aspects, don't try to include every single thing.  See the <a href = "https://ds190-capstone.netlify.app/slides/2025-09-02-writing" target = "_blank">presentation notes</a> for more suggestions.
 
 
+# Engagement
+
+## Ethics conversations (10 pts)
+
+We will have 5 ethics conversations, you will be expected to do the readings and actively participate in each of the 5 conversations.
+
+## Attendence (10 pts)
+
+Attendence each week is expected. You will lose one point for each missed class.
