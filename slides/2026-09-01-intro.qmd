@@ -2,7 +2,7 @@
 title: Introduction to DS 190
 subtitle: Capstone in Data Science
 author: "Jo Hardin"
-date: "August 26, 2025"
+date: "September 1, 2026"
 date-format: long
 format:
   revealjs:
@@ -25,12 +25,11 @@ fontawesome::fa_html_dependency()
 options(pillar.width = 70)
 ```
 
-# Agenda 8/25/25
+# Agenda 9/1/26
 
 1. [Syllabus](../syllabus/)
 2. course structure
 3. project
-4. ethics in data science
 
 
 ## Course structure
@@ -65,6 +64,13 @@ options(pillar.width = 70)
 :::
 ::::
 
+## Disciplinary Ethics in Data Science
+
+* 5 class sessions for ethics conversations:  environmental science, philosophy, indigenous studies, ecology, linguistics
+
+* small amount of reading
+
+* expectation for active participation in the conversation on those days
 
 ## GitHub
 
@@ -95,25 +101,20 @@ The Data Science capstone project should:
 
 ## Student responsibilities:
 * Find a faculty member who can support the project and provide domain expertise. The faculty member need not already be involved with Pomona’s Data Science minor, but you might be interested in which faculty members are affiliated with the minor.
-* Meet with faculty mentor weekly.
+* Meet with faculty mentor weekly(ish).
 * Identify resources on campus that can provide technical support.
 * Perform the computational work required in the project.
 * Communicate the results of the project in writing and in a formal presentation.
 
-## Sharing time
+## Share
 
-* What is your project about?
-* Do you have a faculty mentor?
-* Do you have a dataset?
-* What are the biggest hurdles you are currently expecting?
+* Your name, your major
+* The discipline of your project
+* The name of your project mentor
+* 1-2 sentences describing your project
 
-## Disciplinary Ethics in Data Science
+Also reflect on: do you have a dataset? what is the biggest hurdle you are currently expecting?
 
-* 5 class sessions for ethics conversations:  history, linguistics, philosophy, psychology, economics
-
-* small amount of reading
-
-* expectation for active participation in the conversation on those days
 
 
 ## Pre-course survey
