@@ -46,7 +46,7 @@ schedule <- tribble(
   ~`date`, ~topic, ~`assignment`, ~readings ,
   "Week 1 <br> 9.1.26", 'introductions + syllabus + logistics + pre-course survey',
   ' ',
-  '<a href="https://ds190-capstone.netlify.app/slides/2025-08-26-intro.html" target = "_blank"><i class="fa-solid fa-desktop"></i> Introduction</a>',
+  '<a href="https://ds190-capstone.netlify.app/slides/2026-09-01-intro.html" target = "_blank"><i class="fa-solid fa-desktop"></i> Introduction</a>',
 
   "Week 2 <br> 9.8.26", '<i class="fa-solid fa-comments"></i> EDS - CS/engineering/chemistry <br> <a href = "https://www.cs.hmc.edu/~julie/" target = "_blank">Julie Modero</a>',
   '<a href = "https://ds190-capstone.netlify.app/assignments" target = "_blank"><i class="fas fa-pencil-alt"></i> capstone topic</a>',
