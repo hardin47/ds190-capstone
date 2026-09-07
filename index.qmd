@@ -54,7 +54,7 @@ schedule <- tribble(
 
   "Week 3 <br> 9.15.26", '<i class="fa-solid fa-comments"></i> EDS - philosophy <br> <a href = "https://julie-tannenbaum.sites.pomona.edu/" target = "_blank">Julie Tannenbaum</a>',
   '<a href = "https://ds190-capstone.netlify.app/assignments" target = "_blank"><i class="fas fa-pencil-alt"></i> annotated bibliography</a>',
-  '<i class="fa-solid fa-book-open"></i>  <a href = "" target = "_blank">Reading 1</a>  <br> <i class="fa-solid fa-book-open"></i> <a href="" target = "_blank">Reading 2</a>',
+  '<i class="fa-solid fa-book-open"></i> And Justice for All: New Introductory Essays in Ethics and Public Police, 1982, eds. Tom Regan and Donald VanDeVeer <a href = "https://pomona.instructure.com/courses/7644/files/folder/Uploaded%20Media?preview=580998" target = "_blank">Chapter 9 Utilitarianism</a>, Dan Brock',
 
   # ask Sara Sadhwani to speak???
   # Macdonell, W. R. (1902). On criminal anthropometry and the identification of criminals. Biometrika, 1(2), 177–227.
