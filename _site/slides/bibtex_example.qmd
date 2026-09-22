@@ -2,9 +2,9 @@
 title: BibTeX Example
 subtitle: Capstone in Data Science
 author: "Jo Hardin"
-date: "September 2, 2025"
+date: "September 22, 2026"
 date-format: long
-format: docx
+format: pdf
 bibliography: capstone.bib
 execute:
   echo: true
@@ -23,7 +23,7 @@ In the second chapter, I'll tell you some very important things. Indeed, my work
 The important idea is the measure of a robust correlation [@tukey1972].
 
 
-# Less important tuff
+# Less important stuff
 
 Although I read all about Halmos, I never ended up citing the work, so there is no in-text citation. Which means, you'll notice, that the Halmos citation does not show up in my references section even though Halmos is in the .bib file.
 

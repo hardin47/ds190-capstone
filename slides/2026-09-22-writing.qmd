@@ -2,7 +2,7 @@
 title: "Writing & Presenting"
 subtitle: Capstone in Data Science
 author: "Jo Hardin"
-date: "September 2, 2025"
+date: "September 22, 2026"
 date-format: long
 format:
   revealjs:
@@ -25,12 +25,12 @@ fontawesome::fa_html_dependency()
 options(pillar.width = 70)
 ```
 
-# Agenda 9/2/25
+# Agenda 9/22/26
 
 1. Communicating
 2. Presenting
 3. Referencing
-
+4. Data
 
 # Writing up the project
 
@@ -67,7 +67,7 @@ knitr::include_graphics("halmos1.jpg")
 ## Someone to say it to
 
 * Your peers
-* You, months earlier, in August 2025
+* You, months earlier, in August 2026
 * Maybe your adviser(s)
 * People unconnected to but interested in the project
 
@@ -147,6 +147,7 @@ The write-up is different than the presentation.  The presentation often covers 
 * Do not provide any detailed derivations
 * Avoid jargon, use descriptive and concrete language to say things. Only define terms that you absolutely need for your talk.
 * Avoid unnecessary generalizations, be as concrete as possible.
+* Do not try to tell your audience everything.
 
 
 ::: {.callout-important}
@@ -163,6 +164,7 @@ Your audience will not get hung up on some small detail of the work that is driv
 * don't jump back and forth
 * slow down
 * keep ideas simple
+* present only one (or two?) idea(s)
 
 ## The talk
 
@@ -220,14 +222,15 @@ Formatting the entries will be done in the Quarto YAML
 * <a href = "https://ds190-capstone.netlify.app/slides/capstone.bib" target = "_blank">`capstone.bib`</a>
 
 
-## Next up
+## Your data status
 
-* September 9, data science ethics from a historical lens.  Two really good pre-readings!
-
-* September 16 + 23 -- first presentations!!!  
-   - ~10 min each  
-   - 5 or 6 people presenting on each day
-   - use Quarto, Google slides, whatever
+* Describe the rows and columns of your dataset.
+   - What is a row? That is, how can you describe in words what is the observational unit? Do you have multiple datasets that have different observational units?
+   - What are the columns? Which ones do you already know? How many columns are there that you haven't yet figured out?
+* How many rows have you already collected? How many rows do you want to collect? How many rows would you collect in a perfect world?
+* Is collecting the data part of the "data science" aspect of your project?
+* What is the single biggest hurdle right now in terms of gathering the data? How are you going to manage that hurdle?
+* What are the most important aspects of the data? That is, what does the data help answer about the research question?
 
 
 

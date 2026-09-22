@@ -66,7 +66,7 @@ schedule <- tribble(
 
   "Week 4 <br> 9.22.26", 'check-ins + citations + scripting + Git',
   ' ',
-  '<a href="https://ds190-capstone.netlify.app/slides/2025-09-02-writing.html" target = "_blank"><i class="fa-solid fa-desktop"></i> Writing & Presenting</a> <br> <a href="https://ds190-capstone.netlify.app/slides/bibtex_example.qmd" target = "_blank"><i class="fa-solid fa-book-open"></i> BibTeX example</a> <br> <a href="https://ds190-capstone.netlify.app/slides/capstone.bib" target = "_blank"><i class="fa-solid fa-book-open"></i> .bib file</a>',
+  '<a href="https://ds190-capstone.netlify.app/slides/2026-09-22-writing.html" target = "_blank"><i class="fa-solid fa-desktop"></i> Writing & Presenting</a> <br> <a href="https://ds190-capstone.netlify.app/slides/bibtex_example.qmd" target = "_blank"><i class="fa-solid fa-book-open"></i> BibTeX example</a> <br> <a href="https://ds190-capstone.netlify.app/slides/capstone.bib" target = "_blank"><i class="fa-solid fa-book-open"></i> .bib file</a>',
 
   "Week 5 <br> 9.29.26", '<i class="fa-solid fa-comments"></i> EDS - CARE & FAIR',
   ' ',
