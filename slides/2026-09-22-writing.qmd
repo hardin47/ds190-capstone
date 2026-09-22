@@ -224,6 +224,9 @@ Formatting the entries will be done in the Quarto YAML
 
 ## Your data status
 
+FIRST: introduce yourself to your neighbor
+
+
 * Describe the rows and columns of your dataset.
    - What is a row? That is, how can you describe in words what is the observational unit? Do you have multiple datasets that have different observational units?
    - What are the columns? Which ones do you already know? How many columns are there that you haven't yet figured out?
