@@ -48,7 +48,7 @@ Revise, expand, and complete either the introduction or the previous section. No
 
 ## ethics component (5 pts)
 
-A description of ethical challenges and how you've addressed them in your capstone project. 
+A description of ethical challenges and how you've addressed them in your capstone project.  You might check out the <a href = "https://datapractices.org/manifesto/" target = "_blank">Data Values and Principles manifesto</a>.
 
 
 ## project draft (10 pts)
